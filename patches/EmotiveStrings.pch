@@ -1,0 +1,123 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 8 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 7 0 0 
+2 19 0 16 
+3 20 1 10 
+4 20 1 4 
+5 4 2 16 
+7 1 1 0 
+8 51 0 18 
+9 10 0 8 
+10 11 0 12 
+11 26 1 16 
+14 94 2 13 
+6 45 2 6 
+12 19 2 11 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 2 0 0 1 0 1 
+0 2 1 0 9 0 1 
+0 2 2 0 10 0 1 
+0 3 0 0 8 0 1 
+2 4 1 0 7 1 1 
+2 3 1 0 4 1 0 
+0 5 0 0 14 0 1 
+0 5 1 0 14 1 1 
+1 8 0 0 4 0 1 
+0 8 2 0 2 0 1 
+3 9 0 0 1 1 1 
+3 10 0 0 9 0 0 
+1 9 1 0 11 0 1 
+1 1 4 0 9 1 0 
+0 6 0 0 3 1 1 
+0 12 1 0 6 0 0 
+0 14 0 0 12 0 1 
+0 12 2 0 6 0 1 
+1 6 1 0 7 2 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 7 10 64 64 64 15 2 0 0 0 1 0 
+2 19 3 127 113 85 
+3 20 6 0 84 0 127 80 0 
+4 20 6 0 0 0 127 127 0 
+5 4 3 111 0 0 
+6 45 9 6 1 2 122 0 95 42 0 0 
+8 51 10 0 1 48 50 64 0 0 1 0 0 
+9 10 5 64 66 48 5 0 
+10 11 4 52 53 0 0 
+11 26 6 64 1 0 0 0 0 
+12 19 3 127 94 111 
+14 94 3 64 126 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 2 0 12 
+1 2 1 13 
+1 2 2 14 
+1 3 1 2 
+1 3 2 5 
+1 3 3 8 
+1 3 4 11 
+1 4 1 1 
+1 4 2 4 
+1 4 3 7 
+1 4 4 10 
+1 5 0 0 
+1 8 3 15 
+1 8 6 16 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+8 1 0 
+9 1 0 
+10 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 OscA1
+2 Mixer1
+3 ADSR-Env2
+4 ADSR-Env1
+5 2 outputs1
+6 VocalFilter1
+7 Keyboard
+8 FilterE1
+9 OscSlvB1
+10 OscSlvC1
+11 LFOC1
+12 Mixer2
+14 Chorus2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Based on the JunoStrings
+patch from Clavia. Added a
+vocal filter to give some
+velocity controlled tension.
+
+(c) JJClark 2002
+
+[/Notes]

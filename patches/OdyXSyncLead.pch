@@ -1,0 +1,306 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 11 0 1 594 2 1 1 1 1 1 1 1 1 0 1 0 0 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 3 44 
+2 14 1 7 
+3 11 0 8 
+4 80 0 34 
+5 49 3 0 
+6 57 0 46 
+7 4 4 35 
+8 76 1 5 
+9 117 1 1 
+10 31 0 5 
+11 7 0 11 
+12 53 2 33 
+13 39 2 31 
+14 19 2 26 
+15 87 4 6 
+16 19 4 31 
+17 19 3 15 
+18 19 2 15 
+19 79 2 20 
+20 79 2 23 
+21 79 0 25 
+22 79 0 22 
+23 79 1 25 
+24 79 1 22 
+25 79 0 17 
+26 79 1 17 
+27 79 2 5 
+28 79 2 8 
+29 79 2 11 
+30 44 4 12 
+31 79 4 14 
+32 20 3 20 
+33 20 4 20 
+34 79 3 5 
+35 79 3 8 
+36 79 3 11 
+37 43 1 36 
+38 79 4 25 
+39 25 0 29 
+40 79 3 25 
+41 73 3 42 
+42 79 2 35 
+43 28 1 31 
+44 66 1 20 
+45 66 0 20 
+46 43 0 1 
+47 7 1 11 
+48 57 0 42 
+49 57 0 44 
+50 57 1 42 
+51 57 1 44 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+1 13 0 0 12 0 1 
+5 23 0 0 13 0 1 
+5 21 0 0 23 0 0 
+5 35 0 0 13 0 1 
+5 6 0 0 39 0 1 
+2 42 0 0 6 0 1 
+2 40 1 0 42 0 0 
+2 41 1 0 40 1 0 
+2 38 1 0 41 1 0 
+5 22 1 0 6 0 1 
+3 4 0 0 39 1 1 
+5 24 0 0 4 0 1 
+5 26 0 0 24 0 0 
+5 22 0 0 4 0 1 
+5 25 0 0 22 0 0 
+5 35 1 0 4 0 1 
+1 14 1 0 20 0 1 
+1 14 0 0 19 0 1 
+1 17 2 0 36 0 1 
+1 17 0 0 34 0 1 
+0 18 2 0 29 0 1 
+0 18 0 0 27 0 1 
+4 2 3 0 8 0 1 
+4 47 0 0 2 3 0 
+3 2 0 0 47 1 1 
+1 11 3 0 45 0 1 
+3 3 0 0 11 1 1 
+1 11 4 0 25 0 1 
+1 47 4 0 26 0 1 
+1 47 3 0 44 0 1 
+5 47 2 0 43 0 1 
+5 11 2 0 47 2 0 
+1 44 1 0 24 0 1 
+1 44 0 0 23 0 1 
+1 45 1 0 22 0 1 
+1 45 0 0 21 0 1 
+2 12 0 0 42 0 1 
+2 32 1 0 40 0 1 
+2 40 2 0 41 0 1 
+2 33 1 0 38 0 1 
+2 4 1 0 1 1 1 
+2 39 1 0 4 1 0 
+2 42 1 0 1 1 1 
+2 41 0 0 1 1 1 
+2 38 0 0 41 0 0 
+2 40 0 0 41 0 0 
+1 30 0 0 31 0 1 
+4 27 1 0 9 0 1 
+4 20 0 0 10 0 1 
+4 27 0 0 10 0 1 
+5 24 2 0 37 0 1 
+5 34 2 0 37 0 1 
+5 34 0 0 1 0 1 
+5 31 1 0 33 0 1 
+5 36 1 0 33 0 1 
+5 23 1 0 32 0 1 
+5 26 1 0 23 1 0 
+5 21 1 0 23 1 0 
+5 25 1 0 21 1 0 
+5 31 0 0 32 0 1 
+5 36 0 0 32 0 1 
+1 5 0 0 17 0 1 
+1 17 1 0 35 0 1 
+0 5 1 0 18 0 1 
+0 16 1 0 30 0 1 
+0 18 1 0 28 0 1 
+5 24 1 0 14 0 1 
+5 34 1 0 14 0 1 
+1 12 1 0 14 0 1 
+0 7 1 0 16 0 1 
+0 7 0 0 7 1 0 
+0 30 1 0 15 0 1 
+0 16 0 0 30 1 0 
+0 15 0 0 5 2 1 
+4 8 0 0 49 0 1 
+4 19 1 0 49 0 1 
+4 28 1 0 49 0 1 
+4 9 0 0 49 0 1 
+4 49 0 0 11 0 1 
+4 19 0 0 48 0 1 
+4 28 0 0 48 0 1 
+4 48 0 0 3 0 1 
+4 29 1 0 51 0 1 
+4 20 1 0 51 0 1 
+4 9 1 0 51 0 1 
+4 51 0 0 47 0 1 
+4 29 0 0 50 0 1 
+4 50 0 0 2 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 14 5 64 64 2 0 0 
+3 11 4 64 64 0 0 
+4 80 5 64 96 0 0 0 
+5 49 4 119 0 90 127 
+6 57 2 2 0 
+7 4 3 127 0 0 
+8 76 1 1 
+9 117 2 0 127 
+10 31 1 0 
+11 7 10 64 64 64 52 3 0 127 0 0 0 
+13 39 1 0 
+14 19 3 100 106 0 
+15 87 1 0 
+16 19 3 0 127 0 
+17 19 3 0 0 0 
+18 19 3 0 127 114 
+19 79 6 0 127 127 0 0 0 
+20 79 6 1 127 127 0 0 0 
+21 79 6 0 127 127 0 0 0 
+22 79 6 1 127 127 0 0 0 
+23 79 6 1 127 127 0 0 0 
+24 79 6 0 127 127 127 0 0 
+25 79 6 1 127 127 0 0 0 
+26 79 6 0 127 127 0 0 0 
+27 79 6 1 127 127 0 0 0 
+28 79 6 1 127 127 0 0 0 
+29 79 6 1 127 127 0 0 0 
+30 44 1 0 
+31 79 6 1 127 127 0 0 0 
+32 20 6 0 0 104 54 109 0 
+33 20 6 0 0 77 127 72 0 
+34 79 6 1 127 127 127 0 0 
+35 79 6 0 127 127 0 0 0 
+36 79 6 0 127 127 0 0 0 
+37 43 2 0 1 
+38 79 6 0 127 127 0 0 0 
+39 25 8 63 1 64 0 0 0 0 64 
+40 79 6 0 127 127 127 0 0 
+41 73 1 0 
+42 79 6 0 127 127 0 0 0 
+43 28 1 105 
+44 66 5 0 109 0 0 0 
+45 66 5 0 0 0 0 0 
+46 43 2 64 0 
+47 7 10 64 71 64 84 3 0 127 0 13 0 
+48 57 2 2 0 
+49 57 2 2 0 
+50 57 2 2 0 
+51 57 2 2 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 11 5 0 35 1 47 5 0 35 
+[/MorphMapDump]
+[CtrlMapDump]
+1 37 0 4 
+2 1 0 1 
+[/CtrlMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+4 1 0 
+5 1 0 
+11 1 0 
+43 1 1 
+47 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 dpeck@hdcd.com
+2 OSC2 SAW
+3 OSC1 SAW
+4       LFO SINE
+5 Filter
+6 LFO POS Sqr
+7 Dave Peck
+8 OSC2 SYNC
+9 RingMod
+10 Noise Gen
+11 OSC1 SQUARE
+12 Sample&Hold
+13 S/H LAG
+14 S/H IN Mixer
+15 Static HPF
+16 Pre/post VCA
+17 FilterModMix
+18 Audio Mixer
+19 OSC1 Saw/Sqr
+20 NG/OSC2 Sqr
+21 SH/ADSR
+22 LFO Sine/Sqr
+23 SH/ADSR
+24 LFO/SHmix/Foot
+25 PW: LFO/ADSR
+26 PW: LFO/ADSR
+27 NG/RingMod
+28 OSC1Saw/Sqr
+29 OSC2Saw/Sqr
+30 VCA
+31 ADSR/AR
+32 ADSR
+33 "AR"
+34 Kbd/SHmix/Foot
+35 SH/LFO Sine
+36 ADSR/AR
+37 Foot Pedal
+38 Kybd/LFO
+39 LFO SQUARE
+40 Kybd/LFO/both
+41 "kybd repeat"
+42 Trig: LFO/KBD
+43 **VIBRATO**
+44 FM ModDepth
+45 FM ModDepth
+46 SEE NOTES
+47 OSC2 SQUARE
+48 OSC1 POS Saw
+49 OSC1 POS Sqr
+50 OSC2 POS Saw
+51 OSC2 POS Sqr
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+THE  VIRTUAL  ARP  ODYSSEY:
+Knobs in 4-to-1 switch modules should stay at MAX.
+Switches in 4-to-1 modules act as the patch switches across the bottom of the panel on the real Odyssey. Module names in the 4-to-1 modules indicate switch selections. Example - the switch module below the VCA is labeled "ADSR/AR". Button 1 selects ADSR, button 2 selects AR to control the VCA.
+GREEN cables - audio signals routed to patch switches (HIDE)
+PURPLE cables - control signals routed to patch switches (HIDE)
+RED cables - hardwired audio signals
+BLUE cables - hardwired control signals
+YELLOW cables - gate & trigger signals (HIDE)
+Extra **VIBRATO** LFO with Mod Wheel control added just for fun, because the Odyssey had such lame performance controls.
+"Helper modules" concealed below screen splitter process the keyboard & LFO gate signals for EGs, and convert bipolar waveforms to positive only (like the real Odyssey, for correct response when using audio oscs or LFO square wave to modulate filter fc or oscillator FM).
+Dave Peck
+3/24/01
+
+[/Notes]

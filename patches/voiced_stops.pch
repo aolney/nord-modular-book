@@ -1,0 +1,180 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 630 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+3 4 1 31 
+10 19 1 36 
+2 49 2 1 
+4 49 2 16 
+5 49 2 33 
+1 97 0 1 
+15 1 1 22 
+16 11 0 4 
+19 91 1 1 
+20 91 1 8 
+21 91 1 15 
+11 20 1 24 
+13 18 2 25 
+14 20 2 28 
+22 43 2 21 
+24 43 2 6 
+23 18 2 8 
+25 20 2 11 
+6 31 0 15 
+7 84 0 17 
+8 19 1 34 
+9 76 2 23 
+12 37 1 29 
+17 25 0 27 
+27 52 0 20 
+18 52 0 7 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 10 1 0 4 1 1 
+0 10 2 0 5 1 1 
+0 10 0 0 2 1 1 
+0 5 1 0 16 0 1 
+0 4 1 0 5 1 0 
+0 2 1 0 4 1 0 
+1 5 0 0 21 0 1 
+0 3 1 0 11 1 1 
+0 3 0 0 3 1 0 
+1 13 1 0 20 0 1 
+0 4 0 0 13 0 1 
+1 13 2 0 14 0 1 
+1 23 0 0 24 0 1 
+1 23 1 0 19 0 1 
+0 2 0 0 23 0 1 
+1 23 2 0 25 0 1 
+3 16 0 0 1 0 1 
+0 7 1 0 6 0 1 
+0 11 0 0 8 0 1 
+0 8 2 0 10 0 1 
+0 8 1 0 7 1 1 
+0 8 0 0 8 1 0 
+0 13 0 0 9 0 1 
+1 9 0 0 22 0 1 
+2 14 1 0 12 0 1 
+2 25 1 0 14 1 0 
+2 21 0 0 14 1 0 
+2 20 0 0 21 0 0 
+2 19 0 0 20 0 0 
+2 7 0 0 21 0 0 
+2 18 0 0 7 0 0 
+2 11 1 0 14 1 0 
+1 12 0 0 27 0 1 
+1 27 0 0 17 0 1 
+1 21 1 0 17 0 1 
+1 20 1 0 21 1 0 
+1 19 1 0 20 1 0 
+1 16 1 0 18 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 97 5 64 64 1 0 0 
+2 49 4 58 0 116 64 
+3 4 3 118 0 0 
+4 49 4 94 0 122 64 
+5 49 4 99 0 115 64 
+6 31 1 79 
+7 84 3 0 44 0 
+8 19 3 127 127 127 
+9 76 1 0 
+10 19 3 127 127 103 
+11 20 6 0 20 70 127 53 0 
+12 37 1 52 
+13 18 2 127 0 
+14 20 6 0 37 77 127 74 0 
+16 11 4 64 64 26 0 
+17 25 8 25 2 64 0 0 0 0 100 
+18 52 11 0 127 0 0 0 68 73 30 0 3 1 
+19 91 19 74 64 79 64 69 64 64 64 64 64 64 64 64 64 64 64 1 0 1 
+20 91 19 62 64 48 45 48 64 64 64 64 64 64 64 64 64 64 64 1 0 1 
+21 91 19 62 64 60 57 59 64 64 64 64 64 64 64 64 64 64 64 1 0 1 
+22 43 2 45 0 
+23 18 2 127 0 
+24 43 2 35 0 
+25 20 6 0 28 77 127 74 0 
+27 52 11 127 0 127 0 51 66 47 71 0 4 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 9 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+4 1 0 
+5 1 0 
+16 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 MasterOsc1
+2 Formant 1
+3 jjclark
+4 Formant 2
+5 Formant 3
+6 Noise1
+7 AD-Env1
+8 Mixer2
+9 D or B
+10 Mixer1
+11 ADSR-Env1
+12 LogicDelay1
+13 X-Fade1
+14 ADSR-Env2
+15 Keyboard1
+16 OscSlvC2
+17 LFOB1
+18 Multi-Env2
+19 CtrlSeq1
+20 CtrlSeq2
+21 CtrlSeq3
+22 Constant1
+23 X-Fade1
+24 Constant1
+25 ADSR-Env2
+27 Multi-Env1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) 2003 JJClark
+A demonstration of voiced stop creation.
+2 consonants are implemented -
+"d" and "b" (selected by knob 1)
+The patch says "daddy" and "babby"
+Voiced stops are created by a change
+in the first two formant frequencies, from
+a fixed initial locus to the frequencies
+associated with the following vowel.
+F2 is about 720Hz for "b" sounds and around 2000Hz
+for "d" sounds.
+F1 starts out very low and rises rapidly to that of
+the vowel sound.
+There is also a brief percussive transient which
+has a broad spectrum falling off slightly with frequency.
+A brief silent period before the onset 
+also emphasizes the consonant.
+
+[/Notes]

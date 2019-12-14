@@ -1,0 +1,208 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 0 0 0 3 600 0 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+2 69 1 8 
+3 69 1 10 
+4 74 1 16 
+5 74 1 21 
+6 74 1 26 
+7 1 1 12 
+8 19 1 31 
+9 39 1 14 
+10 4 2 31 
+14 44 0 14 
+15 44 0 18 
+16 44 0 22 
+12 28 0 16 
+13 28 0 20 
+17 80 0 10 
+11 8 1 0 
+1 39 1 6 
+18 83 1 19 
+19 83 1 24 
+20 83 1 29 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+5 4 0 0 9 0 1 
+5 5 0 0 4 0 0 
+5 6 0 0 5 0 0 
+5 9 0 0 7 1 1 
+2 17 1 0 7 1 1 
+4 15 1 0 2 0 1 
+4 16 1 0 3 0 1 
+4 4 1 0 14 0 1 
+4 5 1 0 15 0 1 
+4 6 1 0 16 0 1 
+1 15 0 0 12 0 1 
+1 13 0 0 15 0 0 
+1 16 0 0 13 0 1 
+0 10 0 0 8 0 1 
+0 10 1 0 10 0 0 
+1 14 0 0 17 0 1 
+1 12 0 0 14 0 0 
+3 17 0 0 11 1 1 
+4 2 0 0 1 0 1 
+4 3 0 0 2 0 0 
+4 14 1 0 3 0 0 
+4 2 1 0 1 0 1 
+4 3 1 0 2 1 0 
+0 8 0 0 18 0 1 
+0 8 1 0 19 0 1 
+0 8 2 0 20 0 1 
+0 18 0 0 4 0 1 
+0 19 0 0 5 0 1 
+0 20 0 0 6 0 1 
+4 1 0 0 11 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 39 1 64 
+2 69 1 7 
+3 69 1 3 
+4 74 2 127 25 
+5 74 2 16 75 
+6 74 2 46 100 
+8 19 3 127 127 127 
+9 39 1 95 
+10 4 3 115 0 0 
+11 8 9 28 64 64 3 0 0 0 0 0 
+12 28 1 88 
+13 28 1 4 
+14 44 1 1 
+15 44 1 1 
+16 44 1 1 
+17 80 5 16 64 0 1 0 
+18 83 1 0 
+19 83 1 0 
+20 83 1 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+26 0 0 0 
+1 4 1 0 -25 1 5 0 1 88 1 5 1 0 25 1 6 0 1 81 1 6 1 0 -100 1 11 0 2 36 1 11 1 2 0 1 11 3 3 -1 1 12 0 0 -84 1 18 0 3 4 1 19 0 3 4 1 20 0 3 4 
+[/MorphMapDump]
+[KnobMapDump]
+2 1 0 0 
+2 1 1 1 
+2 1 2 2 
+2 1 3 3 
+[/KnobMapDump]
+[CustomDump]
+1 
+11 1 1 
+12 1 0 
+13 1 0 
+17 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Smooth2
+2 ClkDiv1
+3 ClkDiv2
+4 WaveWrap1
+5 WaveWrap2
+6 WaveWrap3
+7 Keyboard1
+8 Mixer1
+9 Smooth1
+10 2 outputs1
+11 HallseyMrk1
+12 LFOSlvC2
+13 LFOSlvC3
+14 GainControl1
+15 GainControl2
+16 GainControl3
+17 LFOSlvA1
+18 Shaper1
+19 Shaper2
+20 Shaper3
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+©  Wout Blommers - 1999
+.
+Contact to:
+blommoo@casema.net
+.
+Patch name: HallseyMrk1
+.
+Date: 1999-11-23
+.
+*This Patch is free to use for soundgenerating with the
+Nord Modular and the Nord Micro Modular;
+this Patch is free to alter in any form;
+this Patch is free to use for educational means;
+this Patch may be published in any form in any media:
+*under the condition this text remains intact,
+*which will only be changed by adding information,
+*changes in the Patch are discribed in the below topic "History" and
+*above E-mail address is contacted by sending the changed Patch.
+.
+Date publishing Clavia: not yet
+Date publishing Wizoo Modular-List: 1999-11-13
+Date publishing elsewhere: not yet
+.
+Comments:
+Hi,
+.
+In the late sixties and early seventies my musical friends and I were
+really POOR! Most of the gear was fake... The bassplayer could paint the Gibson
+lettering so well, he's now a typographical designer.
+In those days we build our own Synths, yes sir!
+For the Hallsey Mark 1 we used the oscillator of our Farfisa organ.
+The Synth sound was made by distortion and it sounded like distortion...
+The first try-out we did was during a gig and the sound was so terrible, 
+the organization of the party threw us out!
+After that failure we build the Hallsey Mark 2.
+(The name Hallsey was chosen 'cause our bassman made MARSHALL on two plates,
+MARS did fell off the fake amplifier and we added 'sey')
+The Mark 2 was a real modular synth, only its oscillators wouldn't tune in line...
+(It had sample&hold, mixers, LFO's and all that stuff)
+The Mark 2 was stolen during a gig and some days later our leadsinger
+found the poor thing at the side of a road, 'cause the thieves couldn't make
+any sense out of it, me think.
+Mark 3, of course also from the famous 'Hallsey factory', was, so I believe, one of the first Synths
+which used AD and DA converters. Two of our gang worked at the university, where such
+electronic equipment was developed for Philips. (No, they didn't steal
+them: it was just an university, you know, where the professors also carry uranium 238 in
+their pockets)
+I think only the Mark 1 is interesting to emulate here ;-)
+Played in the lower regions, it was a wonderful beatbox, but we didn't
+knew then...
+(Press the low C and hold it a while)
+Those Shapers were really there. The LFO's in a way too.
+And the distortion remains!
+.
+Also one for Roland Kuit, for attracting my attention to the Nord Modular.
+Use the Knobs, MidiMod, MidiMouse or Palle Dahlstedts Randomizer (at 1 BMP).
+.
+Wout.
+.
+History:
+.
+*From "Jim Clark" <jjclark@videotron.ca>
+That's a hilarious story! Reminds me of when I was a kid and
+use to make spaceships out of cardboard boxes.
+.
+Jim
+[/Notes]

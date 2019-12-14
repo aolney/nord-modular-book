@@ -1,0 +1,106 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 630 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+3 4 0 16 
+10 19 0 14 
+2 49 1 0 
+4 49 1 7 
+5 49 1 14 
+1 97 0 0 
+12 10 0 3 
+15 1 0 7 
+19 91 2 0 
+20 91 2 7 
+21 91 2 14 
+11 20 0 9 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 10 1 0 4 1 1 
+0 10 2 0 5 1 1 
+0 10 0 0 2 1 1 
+0 5 1 0 12 0 1 
+0 4 1 0 5 1 0 
+0 2 1 0 4 1 0 
+3 12 0 0 1 0 1 
+1 4 0 0 20 0 1 
+1 5 0 0 21 0 1 
+0 3 1 0 11 1 1 
+0 3 0 0 3 1 0 
+0 11 0 0 10 0 1 
+2 11 1 0 15 1 1 
+2 21 0 0 15 1 1 
+2 20 0 0 21 0 0 
+2 19 0 0 20 0 0 
+1 2 0 0 19 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 97 5 41 64 0 0 0 
+2 49 4 58 0 116 64 
+3 4 3 118 0 0 
+4 49 4 94 0 122 64 
+5 49 4 99 0 115 64 
+10 19 3 127 127 103 
+11 20 6 0 20 77 127 53 0 
+12 10 5 64 64 7 0 0 
+19 91 19 64 74 79 64 69 64 64 64 64 64 64 64 64 64 64 64 4 0 1 
+20 91 19 64 62 48 45 48 64 64 64 64 64 64 64 64 64 64 64 4 0 1 
+21 91 19 64 62 60 57 59 64 64 64 64 64 64 64 64 64 64 64 4 0 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+4 1 0 
+5 1 0 
+12 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 MasterOsc1
+2 Formant 1
+3 jjclark
+4 Formant 2
+5 Formant 3
+10 Mixer1
+11 ADSR-Env1
+12 OscSlvB1
+15 Keyboard1
+19 CtrlSeq1
+20 CtrlSeq2
+21 CtrlSeq3
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) 2003 JJClark
+A demonstration of vowel sound creation.
+5 vowels are implemented -
+ee - as in "beet"
+eh - as in "bet"
+ah - as in "bought"
+oo - as in "boot"
+uh - as in "but"
+Knob 1 selects different excitation waveforms.
+
+[/Notes]

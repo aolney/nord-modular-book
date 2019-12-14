@@ -1,0 +1,288 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 625 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 0 1 
+2 7 1 1 
+3 14 1 10 
+8 43 2 7 
+9 66 2 9 
+10 66 2 11 
+11 49 2 15 
+13 18 2 24 
+14 49 2 27 
+15 18 2 32 
+17 20 3 9 
+18 4 3 14 
+21 57 3 1 
+22 83 3 3 
+23 112 3 5 
+24 81 3 7 
+5 19 1 36 
+6 80 0 20 
+19 66 1 7 
+20 43 1 14 
+4 53 1 17 
+25 70 1 19 
+26 53 1 21 
+27 70 1 23 
+28 73 1 25 
+29 79 1 30 
+31 112 1 33 
+32 73 1 27 
+12 115 2 20 
+30 66 2 1 
+33 68 0 7 
+36 53 0 26 
+38 75 0 28 
+37 66 2 3 
+39 39 2 5 
+7 76 0 4 
+40 66 2 13 
+16 38 0 12 
+34 69 0 14 
+35 38 0 16 
+41 73 0 18 
+42 36 0 10 
+43 57 0 24 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+3 3 0 0 2 1 1 
+2 2 0 0 1 1 1 
+2 3 3 0 1 1 1 
+2 17 1 0 1 1 1 
+2 33 0 0 1 1 1 
+2 16 0 0 33 0 0 
+0 13 0 0 11 2 1 
+0 13 1 0 11 0 1 
+0 15 0 0 14 2 1 
+0 15 1 0 14 0 1 
+0 18 0 0 17 1 1 
+0 18 1 0 18 0 0 
+1 19 1 0 17 0 1 
+1 9 0 0 17 0 1 
+1 10 0 0 1 0 1 
+1 12 1 0 10 0 0 
+0 14 1 0 13 0 1 
+0 22 0 0 21 0 1 
+0 23 0 0 22 0 1 
+0 24 0 0 23 0 1 
+0 21 0 0 15 0 1 
+0 5 1 0 3 0 1 
+0 17 0 0 24 0 1 
+1 2 4 0 19 0 1 
+0 5 0 0 2 0 1 
+0 4 0 0 2 0 1 
+0 32 0 0 4 0 0 
+1 3 2 0 20 0 1 
+0 25 0 0 4 0 1 
+0 26 0 0 25 0 0 
+0 28 0 0 26 0 0 
+0 29 0 0 28 0 0 
+2 4 1 0 25 0 1 
+2 26 1 0 27 0 1 
+0 27 0 0 26 0 1 
+0 28 1 0 27 0 0 
+0 29 1 0 28 1 0 
+0 32 1 0 28 1 0 
+2 29 2 0 28 0 1 
+0 5 2 0 31 0 1 
+0 31 0 0 29 0 1 
+0 40 0 0 29 0 1 
+2 29 3 0 32 0 1 
+1 13 2 0 12 0 1 
+1 15 2 0 13 2 0 
+1 30 1 0 9 0 1 
+3 6 0 0 33 2 1 
+1 30 0 0 6 0 1 
+1 43 0 0 6 0 1 
+1 19 0 0 43 0 0 
+1 2 2 0 19 0 0 
+1 9 1 0 8 0 1 
+1 2 3 0 38 0 1 
+1 37 0 0 38 0 1 
+1 37 1 0 30 0 1 
+1 10 1 0 39 0 1 
+1 39 0 0 37 0 1 
+0 17 2 0 7 0 1 
+1 11 0 0 40 0 1 
+1 14 0 0 11 0 0 
+1 40 1 0 10 0 1 
+0 11 1 0 5 0 1 
+2 34 0 0 33 1 1 
+2 42 0 0 33 1 1 
+2 34 1 0 16 0 1 
+2 41 0 0 16 0 1 
+2 35 0 0 34 0 1 
+2 41 1 0 35 0 1 
+2 6 1 0 41 0 1 
+2 36 0 0 42 0 1 
+2 7 0 0 42 0 1 
+0 38 0 0 36 0 1 
+0 36 1 0 43 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 7 10 64 64 64 64 3 19 127 0 64 0 
+3 14 5 64 64 2 0 0 
+5 19 3 0 127 0 
+6 80 5 76 64 1 0 0 
+7 76 1 0 
+8 43 2 64 0 
+9 66 5 0 127 0 127 1 
+10 66 5 0 127 0 127 0 
+11 49 4 63 0 0 64 
+12 115 4 0 24 0 27 
+13 18 2 4 0 
+14 49 4 60 0 0 64 
+15 18 2 3 0 
+16 38 1 0 
+17 20 6 1 6 74 29 21 0 
+18 4 3 115 0 0 
+19 66 5 0 0 0 0 1 
+20 43 2 96 0 
+21 57 2 1 0 
+22 83 1 3 
+23 112 2 64 1 
+24 81 1 127 
+28 73 1 0 
+29 79 6 0 127 127 127 127 0 
+30 66 5 0 0 0 127 0 
+31 112 2 32 0 
+32 73 1 2 
+33 68 2 79 1 
+34 69 1 7 
+35 38 1 0 
+37 66 5 0 127 0 127 0 
+38 75 2 0 1 
+39 39 1 0 
+40 66 5 0 0 0 127 0 
+41 73 1 1 
+42 36 1 0 
+43 57 2 2 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 127 0 0 
+1 11 2 0 125 1 14 2 0 90 
+[/MorphMapDump]
+[KnobMapDump]
+1 2 5 14 
+1 5 0 0 
+1 5 1 1 
+1 5 2 2 
+1 6 0 9 
+1 6 1 16 
+1 6 2 12 
+1 8 0 6 
+1 9 1 8 
+1 19 1 4 
+1 19 3 3 
+1 29 0 5 
+1 30 1 10 
+1 33 0 15 
+1 37 1 11 
+1 38 0 13 
+1 40 1 17 
+2 1 0 7 
+[/KnobMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+6 1 0 
+11 1 0 
+14 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Rob Hordijk
+2 VCO
+3 SAWTOOTH
+4 SUB 1 DOWN
+5 SOURCE MIXER
+6 MODULATOR
+7 RETRIG
+8 VCF FREQ
+9 VCF ENV
+10 
+11 VCF pole1/2
+12 Cauer curve
+13 Cauer
+14 VCF pole 3/4
+15 Cauer
+16 
+17 ADSR
+18 SH-101 OUT
+19 PWM
+20 
+21 Asym
+22 
+23 
+24 
+25 
+26 SUB 2 DOWN
+27 
+28 PW 25%
+29 SUBOCT DOWN
+30 VCF MOD
+31 
+32 PW 25%/50%
+33 TEMPO
+34 LFO RESET
+35 
+36 RANDOM
+37 VCF S&H
+38 QUANT
+39 VCF SMOOTH
+40 VCF FM
+41 
+42 
+43 S&H SHIFT
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Here's some more virtual analog, a small monophonic synth with an 
+architecture similar to a Roland SH-101. There's two basic versions the 
+first syncs the LFO to the keyboard, the other to the MIDI-clock (don't 
+forget to match the clock generators BPM to your MIDI-clock BPM).
+.
+A few examples of how it can sound are included.
+.
+There's a "custom modification" on my SH-101: FM of the filter by the 
+suboscillator section. It's included. Another thing is that two state 
+variable filters are used in Cauer configurations. This gives a lot of 
+control over the sound of the filter. Nice to get those plastic sounds. And 
+by detuning the filters and balancing the resonancesettings the resonating 
+sound of the proprietary Roland filter is approximated. The asymmetrical 
+non-linearity in the SH-101's waveforms are emulated as well.
+.
+When playing with the S&H you will find that the note quantizer module 
+settings define the notes in the melodies.
+.
+I A/B'd the basic patch with my SH-101 and it sounds pretty close.
+.
+For once I assigned knobs, so have a look at the knobfloater window.
+.
+Have fun,
+Rob
+[/Notes]

@@ -1,0 +1,152 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 6 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 1 1 0 0 
+2 4 2 16 
+3 7 0 6 
+4 31 0 22 
+5 14 0 18 
+6 69 0 34 
+7 40 1 0 
+8 50 1 4 
+10 81 2 10 
+11 20 1 16 
+12 94 2 12 
+13 80 0 26 
+14 92 1 8 
+15 76 1 24 
+16 39 0 24 
+17 99 1 28 
+18 75 1 26 
+19 19 1 22 
+20 11 0 14 
+22 68 0 30 
+29 79 1 32 
+30 43 1 36 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 0 2 0 0 12 0 1 
+0 2 1 0 12 1 1 
+1 3 2 0 16 0 1 
+1 19 1 0 16 0 1 
+1 29 0 0 16 0 1 
+0 3 3 0 15 0 1 
+0 3 4 0 29 0 1 
+2 6 0 0 22 0 1 
+2 6 1 0 1 1 1 
+2 11 1 0 1 1 1 
+0 7 0 0 3 0 1 
+0 7 1 0 20 0 1 
+0 7 2 0 5 0 1 
+0 7 3 0 4 0 1 
+0 8 0 0 7 0 1 
+0 10 0 0 11 1 1 
+0 11 0 0 14 0 1 
+1 11 3 0 1 2 1 
+0 12 0 0 10 0 1 
+3 13 0 0 22 2 1 
+0 14 0 0 19 0 1 
+0 14 2 0 8 2 1 
+1 15 0 0 18 0 1 
+1 16 0 0 13 0 1 
+2 17 0 0 6 0 1 
+1 18 0 0 17 0 1 
+1 19 0 0 11 0 1 
+1 29 2 0 11 0 1 
+3 20 0 0 3 1 1 
+3 5 0 0 20 0 0 
+1 29 1 0 30 0 1 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 127 0 0 
+3 7 10 52 64 64 64 3 0 127 0 92 0 
+4 31 1 67 
+5 14 5 52 64 3 0 0 
+6 69 1 5 
+7 40 9 100 100 100 52 100 100 100 100 0 
+8 50 3 66 0 1 
+10 81 1 127 
+11 20 6 1 48 92 64 75 0 
+12 94 3 37 127 0 
+13 80 5 64 8 2 1 0 
+14 92 7 60 64 74 103 0 1 0 
+15 76 1 1 
+16 39 1 52 
+17 99 5 54 91 0 7 1 
+18 75 2 14 4 
+19 19 3 106 70 127 
+20 11 4 64 64 0 0 
+22 68 2 81 1 
+29 79 6 1 127 127 127 127 0 
+30 43 2 37 0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 14 0 0 32 
+[/MorphMapDump]
+[KnobMapDump]
+1 2 0 0 
+1 8 0 16 
+1 11 1 8 
+1 11 2 11 
+1 11 3 14 
+1 11 4 17 
+1 12 0 2 
+1 12 1 5 
+1 14 0 7 
+1 14 2 10 
+1 14 3 13 
+1 15 0 3 
+1 17 0 1 
+1 17 1 4 
+1 22 0 6 
+[/KnobMapDump]
+[CtrlMapDump]
+2 1 0 1 
+[/CtrlMapDump]
+[CustomDump]
+1 
+3 1 0 
+5 1 0 
+8 1 0 
+13 1 0 
+14 1 0 
+20 1 0 
+[/CustomDump]
+[NameDump]
+1 
+1 Bergmuller
+2 2 outputs1
+3 DCO
+4 Noise
+5 Sub Osc
+6 ClkDiv1
+7 Mixer1
+8 HPF
+10 Amplifier1
+11 ENV
+12 Chorus
+13 LFOSlvA1
+14 VCF
+15 Arpeg On
+16 LFO Smoother
+17 PatternGen1
+18 NoteQuant1
+19 ENV/LFO Mix
+20 OscSlvC1
+22 LFO rate
+29 PWM
+30 PWM Manual
+[/NameDump]
+[Notes]
+Released by Roland in 1983, this synth offered combinable waveforms,
+PWM by any one of three control sources, and a HPF that was a distinct
+advantage in creating 'realistic' string and clavicord patches.
+
+[/Notes]

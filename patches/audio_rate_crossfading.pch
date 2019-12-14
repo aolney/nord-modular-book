@@ -1,0 +1,96 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 8 639 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 7 1 6 
+2 11 1 3 
+3 7 1 14 
+4 18 2 7 
+5 1 2 10 
+6 4 2 19 
+7 20 2 12 
+8 30 1 20 
+9 57 2 17 
+10 86 1 12 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 3 0 0 2 0 1 
+0 1 0 0 2 0 1 
+0 4 0 0 2 0 1 
+3 2 0 0 1 1 1 
+0 7 0 0 4 0 1 
+0 6 1 0 7 1 1 
+0 6 0 0 6 1 0 
+2 7 1 0 5 1 1 
+1 3 4 0 8 0 1 
+1 9 0 0 7 0 1 
+0 3 1 0 9 0 1 
+0 10 0 0 3 0 1 
+0 4 2 0 10 0 1 
+0 4 1 0 1 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 7 10 52 64 64 64 3 0 0 0 0 0 
+2 11 4 65 64 0 0 
+3 7 10 64 64 64 64 3 0 0 0 9 0 
+4 18 2 127 64 
+6 4 3 115 0 0 
+7 20 6 0 25 58 83 88 0 
+8 30 1 23 
+9 57 2 2 1 
+10 86 1 86 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 3 0 0 
+1 3 3 1 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+3 1 0 
+8 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 OscA1
+2 OscSlvC1
+3 OscA2
+4 X-Fade1
+5 Keyboard1
+6 JJClark
+7 ADSR-Env1
+8 LFOSlvE1
+9 InvLevShift1
+10 FilterA1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Audio rate
+crossfading between two synced
+oscillators is a good source of
+harmonics and vitamins.
+(c) JJClark 2002
+
+[/Notes]

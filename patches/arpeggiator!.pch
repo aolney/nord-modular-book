@@ -1,0 +1,462 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 651 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 67 0 0 
+2 67 0 2 
+3 67 0 4 
+4 67 0 6 
+5 67 0 8 
+6 67 0 10 
+7 67 0 12 
+8 67 0 14 
+9 67 0 16 
+10 67 0 18 
+11 67 0 20 
+12 67 0 22 
+67 73 4 26 
+68 53 4 30 
+70 73 0 29 
+13 25 3 34 
+65 36 4 28 
+64 73 0 27 
+66 70 4 24 
+15 18 1 0 
+16 18 1 3 
+17 18 1 6 
+18 18 1 9 
+19 18 1 12 
+20 18 1 15 
+14 18 2 0 
+21 18 2 3 
+22 18 2 6 
+24 18 2 15 
+25 69 1 20 
+26 69 1 22 
+27 69 1 24 
+30 18 2 9 
+31 18 2 12 
+29 18 2 18 
+32 69 1 18 
+23 4 0 40 
+35 47 0 43 
+36 53 1 51 
+37 70 1 53 
+41 73 1 55 
+33 92 2 45 
+38 1 2 56 
+40 100 2 58 
+34 7 3 54 
+39 43 0 53 
+42 79 0 50 
+43 73 2 21 
+44 73 2 23 
+45 73 2 25 
+46 73 2 27 
+47 76 2 35 
+49 44 3 52 
+50 43 3 47 
+55 43 2 37 
+51 44 4 36 
+53 44 4 38 
+54 44 4 40 
+56 44 4 42 
+57 43 2 39 
+58 43 2 41 
+59 43 2 43 
+60 40 4 32 
+62 20 2 51 
+63 30 1 57 
+71 30 3 60 
+72 69 3 41 
+73 79 3 49 
+48 43 3 43 
+74 43 3 45 
+75 81 0 48 
+77 69 1 26 
+78 73 2 33 
+79 76 1 40 
+80 46 1 46 
+52 81 1 44 
+76 53 1 42 
+28 10 0 24 
+61 39 0 46 
+69 14 2 61 
+81 19 2 65 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 68 0 0 67 0 1 
+1 67 1 0 13 0 1 
+1 41 1 0 13 0 1 
+2 64 0 0 66 0 1 
+0 64 1 0 68 0 1 
+2 70 0 0 64 0 1 
+2 68 1 0 65 0 1 
+2 15 0 0 1 0 1 
+2 15 1 0 2 0 1 
+2 16 0 0 3 0 1 
+2 16 1 0 4 0 1 
+2 17 0 0 5 0 1 
+2 17 1 0 6 0 1 
+2 18 0 0 7 0 1 
+2 18 1 0 8 0 1 
+2 19 0 0 9 0 1 
+2 19 1 0 10 0 1 
+2 20 0 0 11 0 1 
+2 20 1 0 12 0 1 
+0 14 0 0 15 0 1 
+0 14 1 0 16 0 1 
+0 21 0 0 17 0 1 
+0 21 1 0 18 0 1 
+0 22 0 0 19 0 1 
+0 22 1 0 20 0 1 
+0 30 0 0 14 0 1 
+0 30 1 0 21 0 1 
+0 31 0 0 22 0 1 
+0 24 0 0 30 0 1 
+0 24 1 0 31 0 1 
+0 67 0 0 29 0 1 
+0 65 0 0 67 0 0 
+0 66 0 0 29 0 1 
+0 76 0 0 29 0 1 
+0 29 0 0 24 0 1 
+0 23 0 0 35 0 1 
+0 23 1 0 35 1 1 
+0 37 0 0 36 0 1 
+0 42 2 0 36 0 1 
+0 42 3 0 42 2 0 
+2 36 1 0 37 0 1 
+2 72 0 0 37 0 1 
+2 41 0 0 40 1 1 
+2 40 1 0 38 1 1 
+1 40 0 0 38 0 1 
+1 42 0 0 39 0 1 
+1 42 1 0 42 0 0 
+2 20 2 0 43 0 1 
+2 19 2 0 20 2 0 
+2 18 2 0 19 2 0 
+2 17 2 0 18 2 0 
+2 16 2 0 17 2 0 
+2 15 2 0 16 2 0 
+2 51 1 0 43 0 1 
+2 14 2 0 44 0 1 
+2 21 2 0 14 2 0 
+2 22 2 0 21 2 0 
+2 53 1 0 44 0 1 
+2 31 2 0 45 0 1 
+2 30 2 0 31 2 0 
+2 54 1 0 45 0 1 
+2 24 2 0 46 0 1 
+2 56 1 0 46 0 1 
+2 43 0 0 32 0 1 
+2 25 0 0 32 0 1 
+2 44 0 0 25 0 1 
+2 26 0 0 25 0 1 
+2 45 0 0 26 0 1 
+2 27 0 0 26 0 1 
+2 46 0 0 27 0 1 
+2 77 0 0 27 0 1 
+0 34 2 0 49 0 1 
+2 32 0 0 70 0 1 
+2 29 2 0 32 0 0 
+1 47 0 0 55 0 1 
+1 56 0 0 55 0 1 
+1 54 0 0 57 0 1 
+1 53 0 0 58 0 1 
+1 51 0 0 59 0 1 
+0 60 7 0 56 0 1 
+0 60 6 0 54 0 1 
+0 60 5 0 53 0 1 
+0 60 4 0 51 0 1 
+1 33 1 0 62 0 1 
+1 33 0 0 63 0 1 
+1 34 4 0 71 0 1 
+0 49 1 0 73 0 1 
+1 73 1 0 50 0 1 
+1 73 0 0 73 1 0 
+2 49 0 0 72 0 1 
+1 73 3 0 48 0 1 
+1 73 2 0 74 0 1 
+2 46 1 0 78 0 1 
+2 45 1 0 46 1 0 
+2 44 1 0 45 1 0 
+2 43 1 0 44 1 0 
+0 78 1 0 47 0 1 
+0 78 0 0 79 0 1 
+2 79 0 0 77 0 1 
+2 80 0 0 41 0 1 
+2 36 0 0 80 0 0 
+2 62 1 0 36 0 0 
+0 80 4 0 33 0 1 
+0 76 1 0 60 0 1 
+0 34 3 0 52 0 1 
+0 52 0 0 76 0 1 
+0 70 1 0 28 0 1 
+0 61 0 0 42 0 1 
+1 35 1 0 61 0 1 
+0 81 2 0 69 0 1 
+0 33 2 0 81 0 1 
+0 81 1 0 34 0 1 
+3 69 0 0 34 1 1 
+0 75 0 0 80 1 1 
+0 35 0 0 75 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 67 1 60 
+2 67 1 61 
+3 67 1 62 
+4 67 1 63 
+5 67 1 64 
+6 67 1 65 
+7 67 1 66 
+8 67 1 67 
+9 67 1 68 
+10 67 1 69 
+11 67 1 70 
+12 67 1 71 
+13 25 8 100 1 64 0 0 0 0 127 
+14 18 2 127 0 
+15 18 2 127 0 
+16 18 2 127 0 
+17 18 2 127 0 
+18 18 2 127 0 
+19 18 2 127 0 
+20 18 2 127 0 
+21 18 2 127 0 
+22 18 2 127 0 
+23 4 3 117 0 0 
+24 18 2 127 0 
+25 69 1 1 
+26 69 1 1 
+27 69 1 1 
+28 10 5 112 64 64 0 0 
+29 18 2 127 0 
+30 18 2 127 0 
+31 18 2 127 0 
+32 69 1 3 
+33 92 7 85 0 45 44 43 1 0 
+34 7 10 48 64 0 64 0 127 127 127 34 0 
+35 47 2 127 0 
+39 43 2 64 1 
+40 100 2 71 60 
+41 73 1 0 
+42 79 6 3 127 127 127 127 0 
+43 73 1 2 
+44 73 1 2 
+45 73 1 2 
+46 73 1 2 
+47 76 1 0 
+48 43 2 100 0 
+49 44 1 0 
+50 43 2 76 0 
+51 44 1 0 
+52 81 1 127 
+53 44 1 0 
+54 44 1 0 
+55 43 2 16 1 
+56 44 1 0 
+57 43 2 8 1 
+58 43 2 4 1 
+59 43 2 2 1 
+60 40 9 100 100 100 100 127 127 127 127 1 
+61 39 1 24 
+62 20 6 0 24 65 73 78 0 
+63 30 1 61 
+64 73 1 1 
+65 36 1 0 
+67 73 1 2 
+69 14 5 52 64 0 0 0 
+70 73 1 0 
+71 30 1 56 
+72 69 1 3 
+73 79 6 1 0 127 127 127 0 
+74 43 2 88 0 
+75 81 1 96 
+77 69 1 1 
+78 73 1 2 
+79 76 1 0 
+80 46 6 21 39 82 0 0 0 
+81 19 3 127 127 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+97 0 0 0 
+1 34 4 0 3 1 69 2 0 3 
+[/MorphMapDump]
+[KnobMapDump]
+1 13 0 0 
+1 32 0 3 
+1 33 0 9 
+1 33 2 10 
+1 33 3 12 
+1 33 4 13 
+1 34 8 16 
+1 42 0 2 
+1 47 0 5 
+1 63 0 14 
+1 71 0 17 
+1 72 0 6 
+1 73 0 7 
+1 79 0 4 
+1 80 0 8 
+1 80 1 1 
+1 80 2 11 
+2 1 0 15 
+[/KnobMapDump]
+[CustomDump]
+1 
+28 1 0 
+33 1 0 
+34 1 0 
+63 1 0 
+69 1 0 
+71 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 NoteDetect1
+2 NoteDetect1
+3 NoteDetect1
+4 NoteDetect1
+5 NoteDetect1
+6 NoteDetect1
+7 NoteDetect1
+8 NoteDetect1
+9 NoteDetect1
+10 NoteDetect1
+11 NoteDetect1
+12 NoteDetect1
+13 Arpeggio Rate
+14 X-Fade1
+15 X-Fade1
+16 X-Fade1
+17 X-Fade1
+18 X-Fade1
+19 X-Fade1
+20 X-Fade1
+21 X-Fade1
+22 X-Fade1
+23 2 outputs1
+24 X-Fade1
+25 ClkDiv1
+26 ClkDiv1
+27 ClkDiv1
+28 ScanClock
+29 X-Fade1
+30 X-Fade1
+31 X-Fade1
+32 Note Rpt
+33 FilterF1
+34 OscA1
+35 Pan1
+36 Sample&Hold1
+37 LogicInv1
+38 Keyboard1
+39 Constant1
+40 KeybSplit1
+41 LogicProc2
+42 Ping-Pong Pan
+43 LogicProc1
+44 LogicProc3
+45 LogicProc3
+46 LogicProc3
+47 Up or Down
+48 Constant7
+49 GainControl1
+50 Constant2
+51 GainControl2
+52 Amplifier1
+53 GainControl3
+54 GainControl4
+55 Constant3
+56 GainControl5
+57 Constant4
+58 Constant5
+59 Constant6
+60 Mixer1
+61 Smooth1
+62 ADSR-Env2
+63 LFOSlvE1
+64 LogicProc2
+65 PosEdgeDly1
+66 LogicInv2
+67 LogicProc2
+68 Sample&Hold1
+69 OscSlvA1
+70 LogicProc2
+71 LFOSlvE2
+72 Oct Rpt
+73 Oct Jump
+74 Constant8
+75 Amplifier2
+76 Sample&Hold2
+77 ClkDiv2
+78 LogicProc3
+79 Up and Down
+80 Env Width
+81 Mixer2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+A working arpeggiator! Yay!
+It is loosely based on the Korg Mono/Poly arpeggiator.
+It works by scanning one octave of key detectors.
+The scan counter is implemented with a control
+sequencer which counts up from 2 to 13.
+When the scan detects a key down, the scan is halted
+until the arpeggiator clock goes low, at which point
+the scan is restarted and searches for the next key that is 
+down. The envelope generators are triggered on the 
+rising edge of the arpeggiator clock.
+This arpeggiator has lots of features
+(unlike my previous arpeg patches, which you
+should discard...)
+Knob 1 controls the arpeggiation rate.
+Knob 2 controls the envelope sustain time.
+Knob 3 turns on/off the pan ping-pong.
+Knob 4 adjusts the note repeat factor. It
+should be amultiple of 2. A value 2 gives no
+repeat, 4 gives double notes and so forth.
+Knob 5 switches the count to be up then down.
+Knob 6 switches the count to be either up or
+down.
+Knob 7 controls the number of note repeats within
+an octave jump.
+Knob 8 selects the number of octaves to jump.
+Knob 9 controls the vca env attack time.
+Knob 10 controls the filter cutoff frequency
+Knob 11 controls the  filter resonance
+Knob 12 controls the vca env decay time
+Knob 13 controls the filter lfo mod amount
+Knob 14 controls the filter env mod amount
+Knob 15 controls the filter lfo rate
+Knob 16 controls the oscillator wavefor
+Knob 17 controls the osc pw mod amount
+Knob 18 controls the osc pw lfo rate
+Have fun! This patch is hours of enjoyment
+for the whole family!
+(note there are a few glitches when running at high 
+speeds, but this adds to the "analog feel")
+(c) JJClark 1999
+
+[/Notes]

@@ -1,0 +1,645 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 16 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 30 1 0 
+2 30 1 14 
+3 30 1 12 
+4 30 1 10 
+5 30 1 8 
+6 30 1 6 
+7 30 1 4 
+8 30 1 2 
+9 40 1 16 
+10 30 2 0 
+11 40 1 41 
+12 30 2 12 
+13 30 2 14 
+14 30 2 8 
+15 30 2 6 
+16 30 2 4 
+17 30 2 2 
+18 40 2 16 
+19 30 0 25 
+20 30 0 0 
+21 30 0 14 
+22 30 0 12 
+23 30 0 10 
+24 30 0 8 
+25 30 0 6 
+26 30 0 4 
+27 30 0 2 
+28 40 0 16 
+29 30 0 39 
+30 30 0 37 
+31 30 0 35 
+32 30 0 33 
+33 30 0 31 
+34 30 0 29 
+35 30 0 27 
+36 40 0 41 
+37 97 0 50 
+38 4 2 50 
+39 30 2 25 
+40 30 2 10 
+41 30 2 27 
+42 30 2 29 
+43 1 1 50 
+45 30 2 31 
+46 30 2 33 
+47 30 2 35 
+48 30 2 37 
+49 40 2 41 
+50 30 2 39 
+51 30 1 27 
+52 30 1 29 
+53 30 1 31 
+44 30 1 25 
+57 30 1 33 
+54 30 1 35 
+55 30 1 37 
+56 30 1 39 
+58 20 0 20 
+59 20 1 20 
+60 20 2 20 
+61 20 0 45 
+62 20 1 45 
+63 20 2 45 
+64 30 3 0 
+70 30 3 2 
+69 30 3 4 
+68 30 3 6 
+67 30 3 8 
+73 30 3 10 
+65 30 3 12 
+66 30 3 14 
+71 40 3 16 
+82 20 3 20 
+72 30 3 25 
+74 30 3 27 
+75 30 3 29 
+76 30 3 31 
+77 30 3 33 
+78 30 3 35 
+79 30 3 37 
+81 30 3 39 
+80 40 3 41 
+83 20 3 45 
+84 40 3 50 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 9 0 0 1 0 1 
+0 9 1 0 8 0 1 
+0 9 2 0 7 0 1 
+0 9 3 0 6 0 1 
+0 9 4 0 5 0 1 
+0 9 5 0 4 0 1 
+0 9 6 0 3 0 1 
+0 9 7 0 2 0 1 
+0 18 0 0 10 0 1 
+0 18 1 0 17 0 1 
+0 18 2 0 16 0 1 
+0 18 3 0 15 0 1 
+0 18 4 0 14 0 1 
+0 18 5 0 40 0 1 
+0 18 6 0 12 0 1 
+0 18 7 0 13 0 1 
+3 19 0 0 37 0 1 
+3 35 0 0 19 0 0 
+3 34 0 0 35 0 0 
+3 33 0 0 34 0 0 
+3 32 0 0 33 0 0 
+3 31 0 0 32 0 0 
+3 30 0 0 31 0 0 
+3 29 0 0 30 0 0 
+3 21 0 0 37 0 1 
+3 22 0 0 21 0 0 
+3 23 0 0 22 0 0 
+3 24 0 0 23 0 0 
+3 25 0 0 24 0 0 
+3 26 0 0 25 0 0 
+3 27 0 0 26 0 0 
+3 20 0 0 27 0 0 
+3 1 0 0 20 0 0 
+3 8 0 0 1 0 0 
+3 7 0 0 8 0 0 
+3 6 0 0 7 0 0 
+3 5 0 0 6 0 0 
+3 4 0 0 5 0 0 
+3 3 0 0 4 0 0 
+3 2 0 0 3 0 0 
+3 10 0 0 1 0 0 
+3 17 0 0 10 0 0 
+3 16 0 0 17 0 0 
+3 15 0 0 16 0 0 
+3 14 0 0 15 0 0 
+3 40 0 0 14 0 0 
+3 12 0 0 40 0 0 
+3 13 0 0 12 0 0 
+3 39 0 0 13 0 0 
+3 41 0 0 39 0 0 
+3 42 0 0 41 0 0 
+3 45 0 0 42 0 0 
+3 46 0 0 45 0 0 
+3 47 0 0 46 0 0 
+3 48 0 0 47 0 0 
+3 50 0 0 48 0 0 
+3 81 0 0 50 0 0 
+3 79 0 0 81 0 0 
+3 78 0 0 79 0 0 
+3 77 0 0 78 0 0 
+3 76 0 0 77 0 0 
+3 75 0 0 76 0 0 
+3 74 0 0 75 0 0 
+3 72 0 0 74 0 0 
+3 66 0 0 72 0 0 
+3 65 0 0 66 0 0 
+3 73 0 0 65 0 0 
+3 67 0 0 73 0 0 
+3 68 0 0 67 0 0 
+3 69 0 0 68 0 0 
+3 70 0 0 69 0 0 
+3 64 0 0 70 0 0 
+3 51 0 0 37 0 1 
+3 52 0 0 51 0 0 
+3 53 0 0 52 0 0 
+3 57 0 0 53 0 0 
+3 54 0 0 57 0 0 
+3 55 0 0 54 0 0 
+3 56 0 0 55 0 0 
+3 44 0 0 51 0 0 
+0 28 0 0 20 0 1 
+0 28 1 0 27 0 1 
+0 28 2 0 26 0 1 
+0 28 3 0 25 0 1 
+0 28 4 0 24 0 1 
+0 28 5 0 23 0 1 
+0 28 6 0 22 0 1 
+0 28 7 0 21 0 1 
+0 36 0 0 19 0 1 
+0 36 1 0 35 0 1 
+0 36 2 0 34 0 1 
+0 36 3 0 33 0 1 
+0 36 4 0 32 0 1 
+0 36 5 0 31 0 1 
+0 36 6 0 30 0 1 
+0 36 7 0 29 0 1 
+1 49 7 0 48 0 1 
+1 49 6 0 47 0 1 
+1 49 5 0 46 0 1 
+1 49 4 0 45 0 1 
+1 49 3 0 50 0 1 
+1 49 2 0 42 0 1 
+1 49 1 0 41 0 1 
+1 49 0 0 39 0 1 
+1 11 0 0 44 0 1 
+1 11 1 0 51 0 1 
+1 11 2 0 52 0 1 
+1 11 4 0 57 0 1 
+1 11 3 0 53 0 1 
+1 11 5 0 54 0 1 
+1 11 6 0 55 0 1 
+1 11 7 0 56 0 1 
+0 71 0 0 64 0 1 
+0 71 1 0 70 0 1 
+0 71 2 0 69 0 1 
+0 71 3 0 68 0 1 
+0 71 4 0 67 0 1 
+0 71 5 0 73 0 1 
+0 71 6 0 65 0 1 
+0 71 7 0 66 0 1 
+1 80 7 0 79 0 1 
+1 80 6 0 78 0 1 
+1 80 5 0 77 0 1 
+1 80 4 0 76 0 1 
+1 80 3 0 81 0 1 
+1 80 2 0 75 0 1 
+1 80 1 0 74 0 1 
+1 80 0 0 72 0 1 
+0 38 1 0 84 0 1 
+0 38 0 0 38 1 0 
+0 84 2 0 62 1 1 
+0 84 0 0 61 1 1 
+0 84 1 0 58 1 1 
+0 84 3 0 59 1 1 
+0 84 5 0 60 1 1 
+0 84 6 0 82 1 1 
+0 84 7 0 83 1 1 
+0 83 0 0 80 0 1 
+0 84 4 0 63 1 1 
+0 63 0 0 49 0 1 
+0 62 0 0 11 0 1 
+0 61 0 0 36 0 1 
+0 58 0 0 28 0 1 
+0 59 0 0 9 0 1 
+0 60 0 0 18 0 1 
+0 82 0 0 71 0 1 
+2 62 1 0 43 1 1 
+2 59 1 0 62 1 0 
+2 61 1 0 62 1 0 
+2 58 1 0 61 1 0 
+2 63 1 0 43 1 1 
+2 60 1 0 63 1 0 
+2 83 1 0 63 1 0 
+2 82 1 0 83 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 30 1 4 
+2 30 1 76 
+3 30 1 71 
+4 30 1 45 
+5 30 1 36 
+6 30 1 33 
+7 30 1 28 
+8 30 1 16 
+9 40 9 110 105 123 117 127 116 103 112 1 
+10 30 1 4 
+11 40 9 127 108 126 85 90 120 99 112 0 
+12 30 1 95 
+13 30 1 100 
+14 30 1 64 
+15 30 1 24 
+16 30 1 28 
+17 30 1 16 
+18 40 9 112 102 119 104 121 127 127 121 1 
+19 30 1 5 
+20 30 1 4 
+21 30 1 83 
+22 30 1 76 
+23 30 1 64 
+24 30 1 71 
+25 30 1 40 
+26 30 1 28 
+27 30 1 16 
+28 40 9 106 109 105 102 113 115 108 115 1 
+29 30 1 62 
+30 30 1 66 
+31 30 1 63 
+32 30 1 65 
+33 30 1 24 
+34 30 1 29 
+35 30 1 17 
+36 40 9 112 110 108 120 112 110 111 103 1 
+37 97 5 127 64 1 0 0 
+38 4 3 115 0 0 
+39 30 1 88 
+40 30 1 83 
+41 30 1 92 
+42 30 1 62 
+44 30 1 5 
+45 30 1 60 
+46 30 1 87 
+47 30 1 93 
+48 30 1 61 
+49 40 9 112 102 119 104 121 127 127 121 1 
+50 30 1 60 
+51 30 1 88 
+52 30 1 93 
+53 30 1 63 
+54 30 1 88 
+55 30 1 93 
+56 30 1 63 
+57 30 1 5 
+58 20 6 0 0 70 96 45 0 
+59 20 6 2 33 72 113 86 0 
+60 20 6 0 0 59 61 8 0 
+61 20 6 0 10 96 37 87 0 
+62 20 6 0 87 67 121 51 0 
+63 20 6 0 68 66 107 36 0 
+64 30 1 4 
+65 30 1 95 
+66 30 1 100 
+67 30 1 64 
+68 30 1 24 
+69 30 1 28 
+70 30 1 16 
+71 40 9 112 102 119 104 121 68 99 110 1 
+72 30 1 88 
+73 30 1 83 
+74 30 1 92 
+75 30 1 62 
+76 30 1 60 
+77 30 1 87 
+78 30 1 93 
+79 30 1 61 
+80 40 9 112 102 119 104 121 127 127 121 1 
+81 30 1 60 
+82 20 6 0 0 99 109 102 0 
+83 20 6 0 114 109 87 100 0 
+84 40 9 100 100 100 100 100 100 100 100 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+3 1 0 
+4 1 0 
+5 1 0 
+6 1 0 
+7 1 0 
+8 1 0 
+10 1 0 
+12 1 0 
+13 1 0 
+14 1 0 
+15 1 0 
+16 1 0 
+17 1 0 
+19 1 0 
+20 1 0 
+21 1 0 
+22 1 0 
+23 1 0 
+24 1 0 
+25 1 0 
+26 1 0 
+27 1 0 
+29 1 0 
+30 1 0 
+31 1 0 
+32 1 0 
+33 1 0 
+34 1 0 
+35 1 0 
+37 1 0 
+39 1 0 
+40 1 0 
+41 1 0 
+42 1 0 
+44 1 0 
+45 1 0 
+46 1 0 
+47 1 0 
+48 1 0 
+50 1 0 
+51 1 0 
+52 1 0 
+53 1 0 
+54 1 0 
+55 1 0 
+56 1 0 
+57 1 0 
+64 1 0 
+65 1 0 
+66 1 0 
+67 1 0 
+68 1 0 
+69 1 0 
+70 1 0 
+72 1 0 
+73 1 0 
+74 1 0 
+75 1 0 
+76 1 0 
+77 1 0 
+78 1 0 
+79 1 0 
+81 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 LFOSlvE1
+2 LFOSlvE1
+3 LFOSlvE1
+4 LFOSlvE1
+5 LFOSlvE1
+6 LFOSlvE1
+7 LFOSlvE1
+8 LFOSlvE1
+9 Mixer1
+10 LFOSlvE1
+11 Mixer2
+12 LFOSlvE1
+13 LFOSlvE1
+14 LFOSlvE1
+15 LFOSlvE1
+16 LFOSlvE1
+17 LFOSlvE1
+18 Mixer1
+19 LFOSlvE1
+20 LFOSlvE1
+21 LFOSlvE1
+22 LFOSlvE1
+23 LFOSlvE1
+24 LFOSlvE1
+25 LFOSlvE1
+26 LFOSlvE1
+27 LFOSlvE1
+28 Mixer1
+29 LFOSlvE1
+30 LFOSlvE1
+31 LFOSlvE1
+32 LFOSlvE1
+33 LFOSlvE1
+34 LFOSlvE1
+35 LFOSlvE1
+36 Mixer1
+37 MasterOsc1
+38 2 outputs1
+39 LFOSlvE2
+40 LFOSlvE1
+41 LFOSlvE3
+42 LFOSlvE4
+43 Keyboard
+44 LFOSlvE1
+45 LFOSlvE4
+46 LFOSlvE2
+47 LFOSlvE3
+48 LFOSlvE4
+49 Mixer1
+50 LFOSlvE4
+51 LFOSlvE2
+52 LFOSlvE3
+53 LFOSlvE4
+54 LFOSlvE2
+55 LFOSlvE3
+56 LFOSlvE4
+57 LFOSlvE1
+58 ADSR-Env1
+59 ADSR-Env1
+60 ADSR-Env1
+61 ADSR-Env1
+62 ADSR-Env1
+63 ADSR-Env1
+64 LFOSlvE1
+65 LFOSlvE1
+66 LFOSlvE1
+67 LFOSlvE1
+68 LFOSlvE1
+69 LFOSlvE1
+70 LFOSlvE1
+71 Mixer1
+72 LFOSlvE2
+73 LFOSlvE1
+74 LFOSlvE3
+75 LFOSlvE4
+76 LFOSlvE4
+77 LFOSlvE2
+78 LFOSlvE3
+79 LFOSlvE4
+80 Mixer1
+81 LFOSlvE4
+82 ADSR-Env1
+83 ADSR-Env1
+84 Mixer2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+A 35 oscillator patch. Uses 25% of the dsp which yields
+16 voices, for a total of 560 oscillators.
+JJClark (c) 1999
+___________________________________________________________________
+On AH people were asking about the maximum number of oscillators you can get on
+the Nord Modular, so I propose a challenge:
+a) what is the largest number of oscillators in a single patch
+b) what is the largest number of oscillators in an unexpanded NM
+To get things rolling, I submit two patches. One uses lfo's and gets 35 oscillators but
+only uses 25% dsp so you can get 16x35=560 oscillators total (although I only get 8
+voices for some reason).
+You might think lfos are cheating, so the second patch uses the sinebank oscillators
+and gets 33 oscillators but uses up 98% dsp. So one only gets 4 voices and 132
+oscillators total.
+Can anyone beat this?
+(I am also including a patch which uses logic elements to make oscillators
+just to remind you to think sideways once in a while).
+Jim
+jjclark@videotron.ca
+___________________________________________________________________
+well jj..my modular comes in a few days...so i will give it a shot...
+BUT...just for the record...I AM NOT buying this for polyphony...i would much rather
+have 100 lfos and 1 audio oscillator...than the other way around
+i look at this like a trombone, my first instrument, where you play each single note with
+MAXIMUM expression...
+i'll take that anyday over 128 stale samples, simultaneously pissing their way thru a
+crappy orchestration.
+cravin modular...mr marko
+___________________________________________________________________
+*From "[.v/jek.]" <fmsci@email.msn.com>
+This might be a stupid question, since you have a nord and (until tomorrow, according
+to reuse it) I don't.. but isn't this a moot point? I seem to remember this conversation on
+AH long before the nord came out.. something about, after 4-6 oscillators you didn't
+really hear much of a difference... something about phase cancellations (although, I
+don't see why the phase alignments would have to be off.. maybe this was a
+particularly analogue thing).. ohh well..
+I agree with mr marko.. I'd rather have 1 osc and 100 LFOs than vica versa, but I'd
+also like to see more patch points as well ;)..
+o0o[qiB.]o0o
+___________________________________________________________________
+#3 is the issue I was talking about.. after too many osc get stacked, you get phase
+cancellations..
+o0o[qiB.]o0o
+___________________________________________________________________
+*From yon <yon@physics.utexas.edu>
+actually, my nord is staying on the bookshelf until i hand in my thesis. ;)
+I suppose it is partly a question of what model you have in mind, oscillator-wise. If i am
+doing straightup additive synthesis, i'd like nothing better than around ten kazillion
+oscillators.  er.. all sinusoidal, and possibly fixed frequency, though not necessarily.
+lots of early computer music systems used the numberof oscillators available for
+additive synthesis as a benchmark of their powerfulness.  some still do, i guess.
+er.. ok.  cheers, yon
+__________________________________________________________________
+*From "[.v/jek.]" <fmsci@email.msn.com>
+This thread has prompted me to wade deep into the jungles of the AH archive (on
+marks site) to locate this thread I can barely remember (mainly to re educate myself on
+multiple osc usage.. it never was much of a priority in the past)..
+Here are two bits that pertain to what we are talking about... for all I know, this
+information could be wrong, but I trust the sources..
+----------
+More can be better, if you're going after sonic complexity. To reiterate a post by Marc
+Paping, when detuning more than one osc, have the detuned osc be quieter than the
+original so the fundamental doesn't cancel entirely. The strength of multiple oscs is to
+either create interval stacks or to create a single sound with multiple harmonic
+aspects, such as having two or more sync'd oscs set to different harmonics, etc. Poly
+instruments with a unison mode are a great example of what you'd expect from multiple
+oscs. You get a huge, rich sound.
+That's what more means!" - Robbie Sinclair, Jim Henson's "Dinosaurs"
+On the other hand, multiple oscs, when detuned, which is probable when using
+analog technology, will generate beat frequencies that cancel and reinforce the
+waveform. Using a single oscillator on bass sounds is a good thing, as it allows total
+stability in the sound's volume. You can create a more complex sound by mixing all the
+waveforms together from that single oscillator, since they are all in phase. Oscillators
+with phase locking (Moog 921b, etc.) allow multiple oscs to lock together in perfect
+phase, thus creating a rich sound without beat cancellation. Or, sync'ing a second
+osc, tuning it a bit higher in pitch, and not sweeping it can add size without
+cancellation.
+Easier,
+Professor Peake
+-----------------------------------
+To: analogue@hyperreal.org,
+From: Mike Kent mikekent@pacificrim.net,
+cc: WOEBM001@students.unisa.edu.au,
+Subject: RE: Multiple Oscillators
+Date: Thu, 9 Apr 1998 12:18:32 -0800
+>We all know (hopefully) how much bigger the sound of a machine with more
+>than 1 oscillator (like a minimoog) sounds so much more powerful than say a 101 or a
+>303 (well, i can feel the flames coming my way already). People on this list with
+>modular machines, do you often use more than say 4 or 5 oscillators?
+There is a point of diminishing returns with more oscillators. Each one you add makes
+a smaller difference than the last. I usually only 2-3 is usually good, and less often 4.
+One reason to use 3-4 is for fatter sounds in multiple octaves (maybe 1 at 32", 2 at
+16', 1 at 8'). Another is to have different treatments on each: Example: (this doesn't
+sound anything like a TB-303) One at "center" pitch Second slightly detuned.
+Third modulated by EG to slide up into unison Fourth with slight pitch modulation from
+LFO or S/H.
+Another reason to have more is for use as modulation sources. VCO to VCO FM, VCO
+to VCF Cutoff FM, as LFO, etc.
+I sometimes use many oscillators (10-20) in unison for fun but the sound is not
+necessarily any fatter than 2-3, and often it is not as fat as 2-3. With more than 3
+oscillators there is more potential for phase cancellation. So having many oscillators
+often gives an effect similar to a flanger or phaser, although it is different, maybe more
+subtle.
+There are so many possibilities that others might find other ways to use many
+oscillators. It never hurts to have the option. But 4 is enough for most applications and
+for many great sounds you only need 1, 2, or 3.
+Regards,
+Mike.
+---------
+hope that helped somebody other than just me...
+o0o[qiB.]o0o
+___________________________________________________________________
+*From Ron Stephens <stephens@epigraph.com>
+At 12:34 AM 4/30/99 -0400, [.v/jek.] wrote:
+>This might be a stupid question, since you have a nord and (until tomorrow,
+>according to reuse it) I don't.. but isn't this a moot point? I seem to remember this
+>conversation on AH long before the nord came out.. something about, after 4-6
+>oscillators you didn't really hear much of a difference... something about phase
+>cancellations (although, I don't see why the phase alignments would have to be off..
+>maybe this was a particularly analogue thing).. ohh well..
+Seems in a *real* analogue, each oscillator would have it's own characteristics, like
+1. kbd tracking variations and non-linearities
+2. stability variations over time
+3. waveform asymmetry variations
+4. q variations in amplitude that would make the oscillators sound "phat".
+When the 44 module limit is lifted, seems you could "build in" these variations through
+different techniques to get that same "analogue sound"? 1, 2, and 4 seem like they
+could be implemented. 3 seems like it couldn't, because the waveforms are
+computed?
+Also, it seems like it would be nice if you could TELL the NM where you want your
+poles and zeros on the filters...this would enable huge variation in filter types for those
+engineering types. (A macro type filter that would let people "download" the
+coefficients?) (Since I've never done DSP filters, am I out to lunch here?)
+-ron
+___________________________________________________________________
+
+[/Notes]

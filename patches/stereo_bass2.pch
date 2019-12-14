@@ -1,0 +1,129 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 13 206 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+5 1 2 1 
+7 20 2 5 
+11 7 1 1 
+14 19 2 3 
+10 11 1 7 
+1 5 2 10 
+[/ModuleDump]
+[ModuleDump]
+0 
+1 32 1 3 
+7 94 1 11 
+5 78 1 14 
+9 81 1 17 
+4 4 1 19 
+2 32 2 3 
+8 94 2 11 
+6 78 2 14 
+10 81 2 17 
+3 4 2 19 
+11 127 1 1 
+12 81 2 1 
+[/ModuleDump]
+[CurrentNoteDump]
+96 127 127 96 127 127 89 127 127 93 127 127 83 127 127 64 0 0 64 0 0 64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 14 1 0 11 0 1 
+2 7 1 0 5 1 1 
+1 7 3 0 5 2 1 
+0 14 0 0 10 0 1 
+0 11 4 0 10 0 1 
+3 10 0 0 11 1 1 
+0 7 0 0 14 0 1 
+0 1 0 0 7 1 1 
+[/CableDump]
+[CableDump]
+0 
+0 4 0 0 7 0 1 
+0 3 1 0 8 1 1 
+0 5 0 0 7 1 1 
+0 6 0 0 8 0 1 
+0 4 1 0 9 0 1 
+0 9 0 0 5 1 1 
+0 3 0 0 10 0 1 
+0 10 0 0 6 1 1 
+0 7 0 0 1 0 1 
+0 8 0 0 2 0 1 
+0 2 0 0 12 0 1 
+0 1 0 0 2 0 0 
+0 12 0 0 11 0 1 
+[/CableDump]
+[ParameterDump]
+1 
+1 5 3 127 4 0 
+7 20 6 2 10 89 84 79 0 
+10 11 4 52 67 0 0 
+11 7 10 64 66 64 64 3 0 123 0 18 0 
+14 19 3 42 126 115 
+[/ParameterDump]
+[ParameterDump]
+0 
+1 32 15 127 0 127 0 127 0 127 0 127 0 127 0 127 73 0 
+2 32 15 0 127 0 127 0 127 0 127 0 127 0 127 0 127 0 
+3 4 3 0 0 0 
+4 4 3 0 0 0 
+5 78 2 0 0 
+6 78 2 0 0 
+7 94 3 64 124 0 
+8 94 3 64 119 0 
+9 81 1 54 
+10 81 1 54 
+11 127 1 0 
+12 81 1 88 
+[/ParameterDump]
+[MorphMapDump]
+115 93 0 0 
+0 3 0 0 127 0 4 0 0 127 0 5 1 1 127 0 6 1 1 127 
+[/MorphMapDump]
+[KnobMapDump]
+2 1 0 0 
+2 1 1 1 
+[/KnobMapDump]
+[CustomDump]
+1 
+10 1 0 
+11 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 1 output1
+5 Keyboard1
+7 ADSR-Env1
+10 OscSlvC1
+11 OscA3
+14 Mixer1
+[/NameDump]
+[NameDump]
+0 
+1 Comb Left
+2 Comb Right
+3 JJClark
+4 JJClark
+5 Delay1
+6 Delay2
+7 StChorus1
+8 StChorus2
+9 Amplifier1
+10 Amplifier2
+11 PolyAreaIn1
+12 Amplifier3
+[/NameDump]
+[Notes]
+Stereo patch using Keith Crosley's
+stereoizer idea (filter banks panned L and R)
+with L and R chorusing and delays to
+spread things out even more.
+(c) 2002 JJClark
+
+[/Notes]

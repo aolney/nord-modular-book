@@ -1,0 +1,139 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 8 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 0 0 
+2 7 0 2 
+3 20 1 0 
+4 78 1 18 
+5 4 2 30 
+6 26 0 18 
+7 40 2 24 
+8 78 1 24 
+9 78 1 30 
+10 28 0 26 
+11 28 0 32 
+12 19 0 14 
+13 69 0 10 
+14 87 1 12 
+15 49 1 6 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 36 24 40 56 38 31 49 28 49 79 76 86 86 59 70 72 46 55 42 21 54 79 52 69 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 3 0 0 15 2 1 
+2 3 1 0 1 1 1 
+0 4 0 0 3 1 1 
+0 8 0 0 4 0 0 
+0 9 0 0 8 0 0 
+0 7 3 0 3 1 1 
+1 4 1 0 6 0 1 
+0 5 0 0 7 0 1 
+0 5 1 0 5 0 0 
+0 7 0 0 4 1 1 
+0 7 1 0 8 1 1 
+0 7 2 0 9 1 1 
+1 8 1 0 10 0 1 
+1 9 1 0 11 0 1 
+3 10 0 0 6 1 1 
+3 11 0 0 10 0 0 
+0 12 0 0 2 0 1 
+0 13 0 0 2 0 1 
+2 12 1 0 13 0 1 
+0 14 0 0 12 0 1 
+1 15 0 0 3 0 1 
+0 15 1 0 14 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 7 10 64 64 64 64 2 0 0 0 0 0 
+3 20 6 0 70 127 127 78 0 
+4 78 2 38 64 
+5 4 3 127 0 0 
+6 26 6 80 1 0 0 1 0 
+7 40 9 127 127 127 127 0 0 0 0 0 
+8 78 2 42 64 
+9 78 2 59 64 
+10 28 1 58 
+11 28 1 41 
+12 19 3 127 106 0 
+13 69 1 1 
+14 87 1 50 
+15 49 4 114 0 0 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+56 40 0 0 
+1 2 4 1 1 1 4 0 1 0 1 6 0 0 23 1 8 0 1 0 1 9 0 0 0 
+[/MorphMapDump]
+[KnobMapDump]
+1 3 1 1 
+1 3 2 4 
+1 3 3 2 
+1 3 4 5 
+1 15 0 3 
+1 15 2 7 
+1 15 3 0 
+2 1 0 6 
+2 1 1 9 
+[/KnobMapDump]
+[CustomDump]
+1 
+2 1 0 
+10 1 0 
+11 1 0 
+15 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard
+2 OscA1
+3 ADSR
+4 Delay1
+5 2 outputs1
+6 Ensemble
+7 Mixer1
+8 Delay2
+9 Delay3
+10 LFOSlvC1
+11 LFOSlvC2
+12 Violin Viola
+13 ClkDiv1
+14 FilterB1
+15 Filter
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+"Buckshot" <buckshot@u-boat.co.uk>
+
+This Patch isn't quite there yet...but darn close!
+
+Most people think re-creating a String Synth patch means throwing 3 osc's
+together and de-tuning them with loads of PWM.
+
+The ARP's and Crumars used 3 phase chorus circuits modulated by 3 LFO's. The
+difference is subtle, but you can tell the difference especially in the
+lower registers.
+
+Make more noise!!
+
+Andy
+
+[/Notes]

@@ -1,0 +1,195 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 0 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 0 0 
+2 97 0 2 
+3 10 0 5 
+4 11 0 8 
+5 31 0 11 
+6 19 2 11 
+7 20 2 23 
+8 53 0 15 
+9 40 2 0 
+10 24 2 6 
+11 92 2 13 
+12 29 0 13 
+13 19 2 19 
+14 19 2 21 
+15 81 0 20 
+16 4 2 28 
+17 19 2 4 
+19 62 0 22 
+18 48 0 17 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+60 127 127 60 127 127 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 6 0 0 3 0 1 
+0 16 0 0 19 0 1 
+0 16 1 0 16 0 0 
+0 19 0 0 15 0 1 
+0 15 0 0 14 0 1 
+0 3 1 0 17 0 1 
+0 9 3 0 8 0 1 
+3 12 0 0 10 0 1 
+0 11 0 0 13 0 1 
+1 13 0 0 1 0 1 
+1 18 0 0 1 0 1 
+0 14 1 0 7 1 1 
+1 17 1 0 7 0 1 
+1 13 2 0 7 0 1 
+1 9 2 0 7 0 1 
+0 2 0 0 9 0 1 
+1 8 0 0 12 0 1 
+1 9 1 0 12 0 1 
+1 17 0 0 10 1 1 
+1 13 1 0 10 1 1 
+1 9 0 0 10 1 1 
+0 14 0 0 11 0 1 
+0 7 0 0 11 0 1 
+0 11 2 0 6 0 1 
+2 7 1 0 1 1 1 
+0 8 1 0 5 0 1 
+0 6 2 0 5 0 1 
+0 6 1 0 4 0 1 
+3 3 0 0 2 0 1 
+3 4 0 0 3 0 0 
+1 2 1 0 18 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 97 5 76 64 1 127 127 
+3 10 5 64 64 44 108 0 
+4 11 4 64 64 0 0 
+5 31 1 0 
+6 19 3 44 127 0 
+7 20 6 1 40 71 48 27 0 
+9 40 9 0 0 0 0 100 100 100 100 0 
+10 24 8 83 1 0 0 0 0 64 0 
+11 92 7 57 0 113 127 0 2 0 
+12 29 1 64 
+13 19 3 0 0 80 
+14 19 3 0 127 127 
+15 81 1 127 
+16 4 3 127 0 0 
+17 19 3 51 26 127 
+18 48 1 59 
+19 62 2 0 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 7 1 8 
+1 7 2 11 
+1 7 3 14 
+1 7 4 17 
+1 10 0 0 
+1 11 0 1 
+1 11 2 2 
+[/KnobMapDump]
+[CtrlMapDump]
+1 3 2 28 
+1 3 3 27 
+1 6 0 29 
+1 6 1 30 
+1 6 2 31 
+1 7 1 34 
+1 7 2 35 
+1 7 3 36 
+1 7 4 37 
+1 9 0 21 
+1 9 1 22 
+1 9 2 23 
+1 9 3 24 
+1 10 0 1 
+1 11 0 8 
+1 11 2 9 
+1 13 0 2 
+1 13 1 3 
+1 13 2 4 
+1 14 0 10 
+1 14 1 11 
+1 17 0 25 
+1 17 1 26 
+1 18 0 5 
+1 19 1 33 
+[/CtrlMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+4 1 0 
+11 1 0 
+12 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 drfuzz
+2 MasterOsc1
+3 OscSlvB1
+4 OscSlvC1
+5 Noise1
+6 Audio Mixer
+7 ADSR-Env1
+8 Sample&Hold1
+9 VCO
+10 LFOA1
+11 VCF
+12 LFOSlvD1
+13 VCF
+14 VCA
+15 Amplifier2
+16 Output
+17 PWM
+18 PortamentoA1
+19 Overdrive1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Axxe1 by drfuzz (Kevin Thomas)
+drfuzz@aol.com
+Controllers are set for MIDI CC's as follows:
+VCO 1 - CC 21   LFO sine to Oscillator
+VCO 2 - CC 22   LFO square to Oscillator
+VCO 3 - CC 23   Envelope to Oscillator
+VCO 4 - CC 24   Sample & Hold to Oscillator
+PWM 1 - CC 25  LFO to Pulse Width Modulation
+PWM 2 - CC 26  Envelope to Pulse Width Modulation
+PW1 - CC 27  Pulse Width Mod amount
+PW2 - CC28   Pulse Width Mod width
+LFO1 - CC 1   LFO rate
+Mixer1 - CC 29   Square Wave amount
+Mixer2 - CC 30   Sawtooth Wave amount
+Mixer3 - CC 31   Noise amount
+VCF1 - CC 8   VCF filter frequency
+VCF2 - CC 9   VCF filter resonance
+VCFMOD1 - CC 2   VCF modulation keyboard
+VCFMOD2 - CC 3   VCF modulation LFO
+VCFMOD3 - CC 4   VCF modulation envelope
+VCA1 - CC 10   VCA from VCF
+VCA2 - CC 11   VCA from ADSR
+ADSR1 - CC 34   Attack
+ADSR2 - CC 35   Decay
+ADSR3 - CC 36   Sustain
+ADSR4 - CC 37   Release
+PORT1 - CC 5   Portamento time
+OVER1 - CC  33   Overdrive amount
+
+[/Notes]

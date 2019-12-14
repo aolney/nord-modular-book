@@ -1,0 +1,178 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 1 1 0 0 
+2 4 2 18 
+3 7 0 4 
+4 31 0 32 
+5 10 0 24 
+6 11 0 12 
+7 40 1 0 
+8 79 1 40 
+9 62 2 14 
+10 10 0 20 
+11 20 1 14 
+12 48 2 6 
+13 27 0 42 
+14 34 0 44 
+15 10 0 16 
+16 79 0 28 
+17 31 0 46 
+18 29 0 40 
+20 19 1 20 
+21 92 1 6 
+22 68 0 36 
+23 81 2 8 
+24 39 1 44 
+29 79 1 22 
+30 43 1 26 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 0 2 0 0 9 0 1 
+0 2 1 0 2 0 0 
+1 3 2 0 12 0 1 
+0 3 4 0 29 0 1 
+3 6 0 0 3 1 1 
+3 15 0 0 6 0 0 
+3 10 0 0 15 0 0 
+3 5 0 0 10 0 0 
+0 7 0 0 3 0 1 
+0 7 1 0 6 0 1 
+0 7 2 0 16 0 1 
+0 7 3 0 4 0 1 
+1 8 0 0 18 0 1 
+1 8 1 0 13 0 1 
+1 8 2 0 14 0 1 
+0 8 3 0 17 0 1 
+0 9 0 0 23 0 1 
+1 9 1 0 11 0 1 
+1 20 0 0 11 0 1 
+1 29 2 0 11 0 1 
+0 11 0 0 21 0 1 
+2 11 1 0 1 1 1 
+2 12 1 0 1 1 1 
+1 11 3 0 1 2 1 
+1 12 0 0 1 0 1 
+0 16 0 0 15 0 1 
+0 16 1 0 10 0 1 
+0 16 2 0 5 0 1 
+3 18 0 0 22 2 1 
+3 13 0 0 18 0 0 
+3 14 0 0 13 0 0 
+1 20 1 0 24 0 1 
+1 29 0 0 24 0 1 
+0 21 0 0 20 0 1 
+0 21 2 0 7 0 1 
+0 23 0 0 11 1 1 
+0 24 0 0 8 0 1 
+1 29 1 0 30 0 1 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 126 0 0 
+3 7 10 40 64 0 64 3 127 127 0 127 0 
+4 31 1 53 
+5 10 5 28 58 64 66 0 
+6 11 4 64 68 0 0 
+7 40 9 127 127 85 28 100 100 100 100 0 
+8 79 6 3 127 127 127 127 0 
+9 62 2 27 0 
+10 10 5 28 59 64 48 0 
+11 20 6 0 54 93 48 75 0 
+12 48 1 60 
+13 27 1 64 
+14 34 1 64 
+15 10 5 40 61 64 0 0 
+16 79 6 1 127 127 127 127 0 
+17 31 1 0 
+18 29 1 64 
+20 19 3 95 51 127 
+21 92 7 51 64 110 127 0 1 0 
+22 68 2 81 1 
+23 81 1 55 
+24 39 1 56 
+29 79 6 2 127 127 127 127 0 
+30 43 2 37 0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 21 2 0 -36 
+[/MorphMapDump]
+[KnobMapDump]
+1 2 0 0 
+1 7 0 6 
+1 7 1 9 
+1 7 2 12 
+1 7 3 15 
+1 8 0 4 
+1 9 0 2 
+1 9 1 5 
+1 11 1 8 
+1 11 2 11 
+1 11 3 14 
+1 11 4 17 
+1 21 0 7 
+1 21 2 10 
+1 21 3 13 
+1 21 5 16 
+1 22 0 1 
+[/KnobMapDump]
+[CtrlMapDump]
+2 1 0 1 
+[/CtrlMapDump]
+[CustomDump]
+1 
+3 1 0 
+5 1 0 
+6 1 0 
+10 1 0 
+13 1 0 
+14 1 0 
+15 1 0 
+18 1 0 
+21 1 0 
+[/CustomDump]
+[NameDump]
+1 
+1 Bergmuller
+2 2 outputs1
+3 VCO squ
+4 Noise
+5 Sub Osc 2dPW
+6 VCO tri
+7 Source Mixer
+8 LFO Waveform
+9 Overdrive1
+10 Sub Osc 2down
+11 ENV
+12 PortamentoA1
+13 LFO saw
+14 LFO rnd
+15 Sub Osc 1down
+16 Sub Osc select
+17 LFO noise
+18 LFO squ
+20 ENV/MOD Mix
+21 VCF
+22 LFO rate
+23 Amplifier1
+24 LFO Smooth
+29 PWM
+30 PWM Manual
+[/NameDump]
+[Notes]
+An absolutely stunning monosynth. Naturally, this is the 'grey' model!
+
+
+
+
+Emulate a Roland SH-101 monophonic synthesizer with this patch.
+Almost like the real thing, but with two major improvements -
+the lfo's can be synced to MIDI, and there's a built-in overdrive.
+
+[/Notes]

@@ -1,0 +1,140 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 6 792 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 0 0 
+2 97 0 7 
+3 11 0 10 
+4 12 0 13 
+5 10 0 16 
+6 20 1 0 
+7 20 1 19 
+8 20 1 36 
+9 16 0 3 
+10 19 0 5 
+12 4 1 42 
+13 92 0 29 
+14 30 0 38 
+15 29 0 40 
+16 43 0 36 
+17 79 0 42 
+18 19 0 27 
+19 31 0 23 
+11 40 0 19 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 6 1 0 1 1 1 
+2 7 1 0 6 1 0 
+2 8 1 0 7 1 0 
+1 9 0 0 1 0 1 
+3 3 0 0 2 0 1 
+3 4 0 0 3 0 0 
+3 5 0 0 4 0 0 
+1 10 2 0 6 0 1 
+1 10 1 0 9 0 1 
+1 2 1 0 10 0 1 
+0 11 1 0 4 0 1 
+0 18 0 0 11 1 0 
+3 14 0 0 16 0 1 
+3 15 0 0 14 0 0 
+0 8 0 0 13 0 1 
+1 17 0 0 14 0 1 
+1 17 1 0 15 0 1 
+1 18 1 0 17 0 1 
+1 5 1 0 18 1 0 
+1 10 0 0 5 1 0 
+0 11 0 0 3 0 1 
+0 11 2 0 5 0 1 
+0 11 3 0 19 0 1 
+1 13 0 0 19 0 1 
+0 13 2 0 11 0 1 
+1 18 2 0 7 0 1 
+1 2 0 0 1 2 1 
+1 4 1 0 2 0 0 
+1 13 1 0 18 0 1 
+0 12 1 0 8 1 1 
+0 12 0 0 12 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 97 5 64 64 1 127 127 
+3 11 4 100 74 0 0 
+4 12 4 89 64 127 0 
+5 10 5 82 127 64 0 0 
+6 20 6 1 0 45 0 0 0 
+7 20 6 1 0 21 29 74 0 
+8 20 6 1 0 75 0 90 0 
+9 16 1 63 
+10 19 3 0 127 127 
+11 40 9 127 127 127 127 100 100 100 100 0 
+12 4 3 127 0 0 
+13 92 7 16 0 127 0 127 2 0 
+14 30 1 40 
+15 29 1 40 
+16 43 2 1 1 
+17 79 6 0 127 127 127 127 0 
+18 19 3 127 0 127 
+19 31 1 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 8 1 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+4 1 0 
+5 1 0 
+13 1 0 
+14 1 0 
+15 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Rikard Latvala
+2 VCO-CONTROL
+3 SAW
+4 TRI
+5 PULSE
+6 VCO-ENV
+7 VCF-ENV
+8 VCA-ENV
+9 GLIDE
+10 VCO-FREQMOD
+11 VCO-MIXER
+12 STEREO OUT
+13 VCF-LPF 24dB
+14 LFO-TRI
+15 LFO-PULSE
+16 LFO-FREQUENCY
+17 TRI-PULSE Select
+18 VCF-FC.Mod
+19 NOISE
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Remove velocity from Pitch mod in on the Master OSC
+and from the FMA input on the TRI OSC to get the
+original design of the Sequential sixtrak.
+
+[/Notes]

@@ -1,0 +1,195 @@
+[Header]
+Info=Clavia Nord Modular patch file
+Version=Nord Modular patch 2.10
+Name=Ext.Pitch.Follow
+KbRangeMin=0
+KbRangeMax=127
+VelRangeMin=0
+VelRangeMax=127
+BendRange=1
+PMMode=0
+PMTime=0
+Voices=1
+Cable0=1
+Cable1=1
+Cable2=1
+Cable3=1
+Morph0=1
+Morph1=1
+Morph2=1
+Morph3=1
+Sustain=1
+OctShift=2
+Retrig=1
+
+[Voices]
+0=4210752
+
+[Module 1]
+Type=2
+Name=AudioIn
+Col=0
+Row=17
+
+[Module 2]
+Type=4
+Name=2 outputs1
+Col=2
+Row=15
+P0=115
+P1=1
+Im0=12
+Ih0=64
+Ic0=0
+Im1=12
+Ih1=65
+Ic1=0
+
+[Module 3]
+Type=7
+Name=Nyrup Boegh
+Col=0
+Row=0
+P0=52
+P1=64
+P2=0
+P3=36
+P4=4
+P5=0
+P6=0
+P7=0
+P8=66
+Im0=7
+Ih0=64
+Ic0=0
+
+[Module 4]
+Type=20
+Name=ADSR-Env1
+Col=1
+Row=4
+P0=0
+P1=62
+P2=77
+P3=127
+P4=1
+P5=0
+Im0=11
+Ih0=64
+Ic0=0
+Im1=6
+Ih1=64
+Ic1=2
+Im3=6
+Ih3=0
+Ic3=1
+
+[Module 5]
+Type=71
+Name=EnvFollower1
+Col=1
+Row=8
+P0=66
+P1=0
+Im0=8
+Ih0=64
+Ic0=0
+
+[Module 6]
+Type=59
+Name=CompareLev1
+Col=1
+Row=7
+P0=111
+Im0=5
+Ih0=64
+Ic0=1
+
+[Module 7]
+Type=82
+Name=Diode1
+Col=0
+Row=10
+P0=1
+Im0=10
+Ih0=64
+Ic0=0
+
+[Module 8]
+Type=21
+Name=Compressor1
+Col=0
+Row=12
+P0=4
+P1=85
+P2=18
+P3=49
+P4=36
+P5=21
+P6=0
+P7=0
+P8=0
+Im0=13
+Ih0=64
+Ic0=0
+
+[Module 10]
+Type=81
+Name=Amplifier1
+Col=0
+Row=11
+P0=127
+Im0=8
+Ih0=64
+Ic0=0
+
+[Module 11]
+Type=51
+Name=FilterE1
+Col=1
+Row=0
+P0=1
+P1=1
+P2=0
+P3=51
+P4=64
+P5=47
+P6=18
+P7=1
+P8=25
+Im1=11
+Ih1=3
+Ic1=1
+Im2=3
+Ih2=64
+Ic2=0
+Im3=4
+Ih3=64
+Ic3=1
+
+[Module 12]
+Type=94
+Name=StereoChorus1
+Col=2
+Row=11
+P0=64
+P1=96
+P2=0
+Im0=4
+Ih0=65
+Ic0=0
+
+[Module 13]
+Type=81
+Name=Amplifier2
+Col=0
+Row=16
+P0=127
+Im0=1
+Ih0=64
+Ic0=0
+
+[Notes]
+Count=2
+L0=Følger pitch (og env.) fra ext input.
+L1=Follows pitch from ext. input.

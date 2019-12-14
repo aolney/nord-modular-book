@@ -1,0 +1,91 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+12 84 2 9 
+6 43 0 5 
+7 43 0 7 
+1 70 1 5 
+2 73 1 10 
+3 73 1 12 
+4 73 1 14 
+5 70 1 7 
+8 73 1 16 
+9 84 2 12 
+10 84 2 15 
+11 84 2 18 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 12 0 0 2 0 1 
+2 9 0 0 3 0 1 
+2 10 0 0 4 0 1 
+2 11 0 0 8 0 1 
+1 1 0 0 6 0 1 
+1 2 1 0 6 0 1 
+1 4 0 0 6 0 1 
+1 5 0 0 7 0 1 
+1 2 0 0 7 0 1 
+1 3 1 0 7 0 1 
+2 3 0 0 1 0 1 
+2 8 0 0 3 0 0 
+2 4 1 0 5 0 1 
+2 8 1 0 4 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 73 1 0 
+3 73 1 0 
+4 73 1 0 
+6 43 2 54 0 
+7 43 2 79 0 
+8 73 1 0 
+9 84 3 0 77 0 
+10 84 3 0 77 0 
+11 84 3 0 77 0 
+12 84 3 0 77 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 LogicInv1
+2 LogicProc1
+3 LogicProc2
+4 LogicProc3
+5 LogicInv2
+6 Select bit 0
+7 Select bit 1
+8 LogicProc4
+9 AD-Env2
+10 AD-Env3
+11 AD-Env4
+12 AD-Env1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) JJClark 2003
+1:4 Decoder
+
+
+[/Notes]

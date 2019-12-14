@@ -1,0 +1,93 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 4 4000 0 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 1 7 
+2 4 1 19 
+21 78 2 16 
+7 78 2 22 
+6 78 2 19 
+14 115 2 7 
+5 78 2 13 
+17 111 1 15 
+18 19 1 13 
+22 86 1 17 
+3 84 1 9 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 6 0 0 21 1 1 
+0 7 0 0 6 1 1 
+1 14 1 0 1 0 1 
+0 21 0 0 5 1 1 
+0 18 2 0 17 0 1 
+0 5 0 0 18 0 1 
+0 17 0 0 22 0 1 
+2 3 0 0 1 1 1 
+1 5 1 0 14 0 1 
+1 21 1 0 5 1 0 
+1 6 1 0 21 1 0 
+1 7 1 0 6 1 0 
+1 18 0 0 3 0 1 
+0 2 1 0 7 1 1 
+0 2 0 0 2 1 0 
+0 22 0 0 2 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 117 0 0 
+3 84 3 0 57 0 
+5 78 2 127 0 
+6 78 2 127 0 
+7 78 2 127 0 
+14 115 4 0 30 36 18 
+17 111 2 126 1 
+18 19 3 127 127 127 
+21 78 2 127 0 
+22 86 1 94 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 2 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard
+2 JJClark
+3 AD-Env1
+5 Delay2
+6 Delay1
+7 Delay1
+14 NoteScal 1
+17 LevMult1
+18 Mixer2
+21 Delay2
+22 FeedbackFilter
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) JJClark 2001
+A simple physical model of a vibrating string.
+
+[/Notes]

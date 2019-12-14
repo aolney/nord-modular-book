@@ -1,0 +1,126 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 652 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+14 84 1 37 
+23 84 1 27 
+29 84 1 17 
+37 84 1 7 
+1 59 0 7 
+4 43 0 4 
+5 43 0 14 
+6 66 0 12 
+7 18 0 9 
+2 59 0 17 
+9 18 0 19 
+8 66 0 22 
+3 43 0 24 
+10 59 0 27 
+13 18 0 29 
+12 66 0 32 
+11 43 0 34 
+15 59 0 37 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+1 6 1 0 5 0 1 
+2 7 2 0 1 0 1 
+2 37 0 0 1 0 1 
+1 7 1 0 6 0 1 
+1 8 1 0 3 0 1 
+2 9 2 0 2 0 1 
+2 29 0 0 2 0 1 
+1 9 1 0 8 0 1 
+1 12 1 0 11 0 1 
+2 13 2 0 10 0 1 
+2 23 0 0 10 0 1 
+1 13 1 0 12 0 1 
+1 1 0 0 4 0 1 
+1 7 0 0 1 0 0 
+1 6 0 0 7 0 0 
+0 2 0 0 7 0 1 
+0 9 0 0 2 0 0 
+0 8 0 0 9 0 0 
+0 10 0 0 9 0 1 
+0 13 0 0 10 0 0 
+0 12 0 0 13 0 0 
+2 14 0 0 15 0 1 
+0 15 0 0 13 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 59 1 72 
+2 59 1 68 
+3 43 2 68 0 
+4 43 2 0 1 
+5 43 2 72 0 
+6 66 5 0 127 1 127 1 
+7 18 2 127 0 
+8 66 5 0 127 1 127 1 
+9 18 2 127 0 
+10 59 1 66 
+11 43 2 66 0 
+12 66 5 0 127 1 127 1 
+13 18 2 127 0 
+14 84 3 0 77 0 
+15 59 1 65 
+23 84 3 0 77 0 
+29 84 3 0 77 0 
+37 84 3 0 77 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+82 0 0 0 
+1 4 0 0 32 
+[/MorphMapDump]
+[KnobMapDump]
+2 1 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 CompareLev1
+2 CompareLev1
+3 Constant1
+4 'analog' input
+5 Constant1
+6 ControlMixer1
+7 X-Fade1
+8 ControlMixer1
+9 X-Fade1
+10 CompareLev1
+11 Constant1
+12 ControlMixer1
+13 X-Fade1
+14 AD-Env1
+15 CompareLev1
+23 AD-Env2
+29 AD-Env3
+37 AD-Env4
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) JJClark 2003
+
+4-bit combinational A/D converter
+[/Notes]

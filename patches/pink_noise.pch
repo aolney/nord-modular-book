@@ -1,0 +1,136 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 33 1 7 
+2 33 1 11 
+3 33 1 15 
+4 33 1 19 
+5 33 2 9 
+6 33 2 13 
+7 33 2 17 
+8 33 2 21 
+10 40 1 21 
+11 4 1 30 
+9 13 1 4 
+12 69 1 9 
+13 69 1 13 
+14 69 1 17 
+15 69 2 7 
+16 69 2 11 
+17 69 2 15 
+18 69 2 19 
+19 84 1 25 
+20 1 1 28 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+1 10 7 0 8 0 1 
+1 10 6 0 7 0 1 
+1 10 5 0 6 0 1 
+1 10 4 0 5 0 1 
+1 10 3 0 4 0 1 
+1 10 2 0 3 0 1 
+1 10 1 0 2 0 1 
+1 10 0 0 1 0 1 
+2 2 0 0 12 0 1 
+2 13 0 0 2 0 0 
+2 3 0 0 13 0 1 
+2 14 0 0 3 0 0 
+2 4 0 0 14 0 1 
+2 15 0 0 4 0 0 
+2 5 0 0 15 0 1 
+2 16 0 0 5 0 0 
+2 6 0 0 16 0 1 
+2 17 0 0 6 0 0 
+2 8 0 0 18 0 1 
+2 7 0 0 17 0 1 
+2 18 0 0 7 0 0 
+2 19 0 0 20 1 1 
+0 11 1 0 19 1 1 
+0 11 0 0 11 1 0 
+0 19 1 0 10 0 1 
+0 1 0 0 9 0 1 
+0 12 0 0 9 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 33 2 0 0 
+2 33 2 0 0 
+3 33 2 0 0 
+4 33 2 0 0 
+5 33 2 0 0 
+6 33 2 0 0 
+7 33 2 0 0 
+8 33 2 0 0 
+9 13 4 127 64 0 0 
+10 40 9 100 100 100 100 100 100 100 100 0 
+11 4 3 119 0 0 
+12 69 1 1 
+13 69 1 1 
+14 69 1 1 
+15 69 1 1 
+16 69 1 1 
+17 69 1 1 
+18 69 1 1 
+19 84 3 0 88 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+9 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 ClkRndGen1
+2 ClkRndGen1
+3 ClkRndGen1
+4 ClkRndGen1
+5 ClkRndGen1
+6 ClkRndGen1
+7 ClkRndGen1
+8 ClkRndGen1
+9 OscSlvE1
+10 Mixer1
+11 2 outputs1
+12 ClkDiv1
+13 ClkDiv1
+14 ClkDiv1
+15 ClkDiv1
+16 ClkDiv1
+17 ClkDiv1
+18 ClkDiv1
+19 AD-Env1
+20 Keyboard1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+A patch for creating "pink" (1/f) noise.
+It uses the Voss algorithm as described
+by Martin Gardner in Scientific American.
+8 clocked random number generators are
+clocked at octave intervals. The sample/hold
+action of these random generators creates
+an effective lowpass filtering which, when
+added together gives the desired 3dB/octave falloff.
+
+Jim Clark 2000
+[/Notes]

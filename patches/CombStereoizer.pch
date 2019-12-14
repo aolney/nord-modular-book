@@ -1,0 +1,101 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 2 0 0 
+2 19 1 0 
+3 32 0 4 
+4 32 1 4 
+5 4 1 22 
+7 18 0 14 
+8 18 0 18 
+9 18 1 14 
+10 18 1 18 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 2 0 0 1 0 1 
+0 2 1 0 1 1 1 
+0 3 0 0 2 0 1 
+0 4 0 0 3 0 0 
+0 9 1 0 2 0 1 
+0 10 1 0 9 1 0 
+0 5 0 0 9 0 1 
+0 5 1 0 10 0 1 
+0 7 0 0 3 0 1 
+0 8 1 0 7 0 0 
+0 7 1 0 4 0 1 
+0 8 0 0 7 1 0 
+0 9 0 0 7 0 1 
+0 10 0 0 8 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 19 3 127 127 127 
+3 32 15 127 0 127 0 127 0 127 0 127 0 127 0 127 73 0 
+4 32 15 0 127 0 127 0 127 0 127 0 127 0 127 0 127 0 
+5 4 3 85 0 0 
+7 18 2 0 0 
+8 18 2 0 0 
+9 18 2 0 127 
+10 18 2 0 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 127 0 0 
+1 7 1 0 127 1 8 1 0 127 1 9 1 1 -127 1 10 1 1 -127 
+[/MorphMapDump]
+[KnobMapDump]
+1 5 0 0 
+2 1 0 2 
+2 1 1 5 
+[/KnobMapDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 AudioIn
+2 Mixer1
+3 Comb Left
+4 Comb Right
+5 2 outputs1
+7 X-Fade1
+8 X-Fade2
+9 XFade L
+10 XFade R
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Comb Stereoizer
+Copyright 1998, Keith R. Crosley
+krc@gehenna.com
+http://www.gehenna.com/modular/
+
+This subtle "audio in" effect turns a mono signal into "simulated stereo" using two
+comb filters.  If the input signal is stereo, it is first summed and turned into mono before
+reaching the filters.  Knob 3 reverses the stereo effect (it should always be set either
+all the way right or all the way left).  Knob 6 crossfades between the "dry" and "wet"
+signals (default is 100% wet).
+
+
+
+[/Notes]

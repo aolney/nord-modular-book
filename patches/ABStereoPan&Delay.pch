@@ -1,0 +1,103 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+2 4 0 27 
+5 78 0 16 
+6 78 0 24 
+7 47 0 21 
+8 24 1 14 
+9 57 0 19 
+10 35 0 0 
+11 80 1 19 
+12 49 0 11 
+3 58 0 2 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 6 0 0 7 1 1 
+0 5 0 0 7 0 1 
+0 5 1 0 9 0 1 
+1 9 0 0 8 1 1 
+1 6 1 0 8 1 1 
+1 7 1 0 8 1 1 
+0 2 1 0 6 1 1 
+0 2 0 0 5 1 1 
+3 11 0 0 8 0 1 
+1 12 0 0 11 0 1 
+0 12 1 0 3 0 1 
+0 7 0 0 12 2 1 
+2 3 0 0 10 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 127 0 0 
+3 58 16 48 28 50 53 108 81 102 4 12 67 0 44 87 96 103 0 
+5 78 2 25 24 
+6 78 2 25 24 
+7 47 2 41 64 
+8 24 8 21 1 0 0 0 0 64 0 
+9 57 2 2 1 
+10 35 1 111 
+11 80 5 64 96 0 0 0 
+12 49 4 114 64 0 13 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+11 1 0 
+12 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+2 Anig Browl
+3 Noise
+5 Left Delay
+6 Right Delay
+7 Panner
+8 Left-right LFO
+9 Inverter
+10 Make some
+11 Front Back LFO
+12 Front or Back
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) Anig Browl August 2000
+anig_browl@yahoo.com
+This patch is designed to make sound fly around your head - replace the drum oscillator with a regular one, or audio input or whatever. You'll probably find that with headphones the sound seems to move inside your head rather than around it. 
+The very short delay times available on NM come in handy here, allowing us to simulate the slight difference in the arrival time of sound at one ear or the other due to the speed of sound. The ~1/2 millisecond offset represents the time it takes for a sound off to one side to travel past your head to the ear on the far side. You might want to adjust the delay mod times for greater accuracy. 
+Reduce the panner modulation to make the sound seem closer to the listener - this should be independent of the delay mod. At zero mod the sound still moves from left to right quite effectively thanks to the delay but this sounds slightly unnatural to me. So does too much panning.
+The 12dB filter is a (very loose) approximation of the way sounds are filtered when coming from behind rather than in front of the listener - it seems to give the panning more of a circular feel. I just went with what sounded right for the filter modulation, and to be honest it would probably be more accurate to have seperate filters for the left and right ears, but that seemed like unnecessary overkill. 
+I'd really appreciate feedback on this patch, especially suggestions or modifications to make the effect more accurate and convincing. 
+.
+> > uk is 50hz not 60.
+> France too !
+
+Obviously i must have been smoking crack when i said that
+Europe was on 60Hz. Sorry about that!
+
+To make up for my error, here's a rather technical patch
+that seems to make sounds spin in a circle round the
+listener, like the corrections are doing to me :)
+.
+Anig Browl
+[/Notes]

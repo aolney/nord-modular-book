@@ -1,0 +1,175 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 4 4000 0 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 1 9 
+2 4 1 37 
+3 31 1 14 
+4 84 1 11 
+5 19 1 27 
+21 78 2 4 
+12 78 2 16 
+11 78 2 13 
+7 78 2 10 
+6 78 2 7 
+14 115 1 5 
+9 57 2 19 
+10 49 2 21 
+8 78 2 1 
+13 86 1 19 
+16 43 1 1 
+15 66 1 3 
+17 19 1 17 
+18 78 1 29 
+19 21 2 27 
+20 62 1 32 
+22 87 1 35 
+23 43 1 21 
+24 44 1 25 
+25 66 1 23 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 4 1 0 3 0 1 
+2 4 0 0 1 1 1 
+0 8 0 0 5 0 1 
+0 18 0 0 5 0 1 
+0 6 0 0 21 1 1 
+0 12 0 0 11 1 1 
+0 11 0 0 7 1 1 
+0 7 0 0 6 1 1 
+1 4 2 0 1 2 1 
+1 14 1 0 1 0 1 
+0 9 0 0 12 1 1 
+0 10 1 0 9 0 1 
+0 21 0 0 8 1 1 
+0 5 2 0 13 0 1 
+0 5 1 0 5 2 0 
+0 13 0 0 10 2 1 
+1 15 1 0 16 0 1 
+1 15 0 0 14 0 1 
+1 8 1 0 15 0 1 
+1 21 1 0 8 1 0 
+1 6 1 0 21 1 0 
+1 7 1 0 6 1 0 
+1 11 1 0 7 1 0 
+1 12 1 0 11 1 0 
+0 17 0 0 4 1 1 
+0 5 0 0 17 0 1 
+0 19 0 0 18 1 1 
+0 20 0 0 19 0 1 
+0 22 0 0 20 0 1 
+0 2 1 0 22 0 0 
+0 2 0 0 2 1 0 
+1 25 1 0 23 0 1 
+1 25 0 0 25 1 0 
+1 18 1 0 23 0 1 
+1 24 0 0 25 0 1 
+0 24 1 0 22 0 1 
+0 17 1 0 24 0 1 
+1 17 2 0 4 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 127 0 0 
+3 31 1 99 
+4 84 3 0 45 0 
+5 19 3 127 62 124 
+6 78 2 127 0 
+7 78 2 127 0 
+8 78 2 127 0 
+9 57 2 0 1 
+10 49 4 103 69 0 0 
+11 78 2 127 0 
+12 78 2 127 0 
+13 86 1 113 
+14 115 4 0 30 36 18 
+15 66 5 0 127 0 32 0 
+16 43 2 0 1 
+17 19 3 127 0 1 
+18 78 2 46 1 
+19 21 9 41 27 10 25 33 22 0 0 0 
+20 62 2 0 122 
+21 78 2 127 0 
+22 87 1 40 
+23 43 2 44 1 
+24 44 1 1 
+25 66 5 1 0 1 127 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+81 127 0 0 
+1 16 0 1 127 1 17 1 0 35 
+[/MorphMapDump]
+[KeyboardAssignment]
+0 2 0 0 
+[/KeyboardAssignment]
+[KnobMapDump]
+1 2 0 0 
+1 3 0 1 
+1 4 1 4 
+1 23 0 2 
+2 1 0 6 
+2 1 1 3 
+[/KnobMapDump]
+[CustomDump]
+1 
+10 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard
+2 2 outputs1
+3 Noise1
+4 ExcitationEnv
+5 Mixer1
+6 Delay1
+7 Delay1
+8 Delay2
+9 InvLevShift1
+10 FilterD1
+11 Delay1
+12 Delay1
+13 FilterA1
+14 NoteScal 1
+15 ControlMixer1
+16 Constant1
+17 Feedback
+18 FBdelay
+19 Compressor1
+20 Overdrive1
+21 Delay2
+22 FilterB1
+23 Distance
+24 GainControl1
+25 ControlMixer2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Karplus-Strong strings with
+feedback. Knob 3 simulates the
+distance of the string to the
+feedback amp/speaker.
+Not quite a Fender/Marshall combo...
+
+(c) JJClark 2002
+
+[/Notes]

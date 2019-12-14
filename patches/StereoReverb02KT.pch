@@ -1,0 +1,272 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 2 0 0 
+2 4 1 51 
+3 19 2 42 
+4 78 1 31 
+5 57 2 19 
+6 19 2 23 
+7 43 2 17 
+8 44 2 21 
+9 78 1 34 
+10 78 2 25 
+11 44 2 40 
+12 78 2 28 
+13 78 2 31 
+14 43 1 17 
+15 86 2 46 
+16 78 2 34 
+17 78 1 28 
+18 78 1 25 
+19 26 1 0 
+20 57 1 19 
+21 19 1 23 
+22 81 2 13 
+23 44 1 21 
+24 19 2 15 
+26 19 1 42 
+27 44 1 40 
+30 19 1 15 
+31 26 2 0 
+32 66 1 8 
+33 66 2 8 
+34 86 1 46 
+45 81 1 13 
+29 57 1 44 
+35 57 2 44 
+28 18 1 48 
+36 18 2 48 
+37 43 0 35 
+38 110 1 6 
+39 110 2 6 
+40 28 1 4 
+41 28 2 4 
+42 66 1 10 
+43 66 2 10 
+25 78 1 37 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+89 77 53 89 77 53 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 26 0 0 23 0 1 
+1 23 0 0 14 0 1 
+1 27 0 0 23 0 0 
+0 21 2 0 27 0 1 
+0 27 1 0 26 0 1 
+0 29 0 0 26 0 1 
+0 18 0 0 21 0 1 
+0 17 0 0 18 1 1 
+0 4 0 0 17 1 1 
+0 9 0 0 4 1 1 
+0 16 0 0 13 1 1 
+0 13 0 0 12 1 1 
+0 10 0 0 6 0 1 
+0 12 0 0 10 1 1 
+0 45 0 0 1 0 1 
+0 28 0 0 1 0 1 
+0 11 1 0 3 0 1 
+0 35 0 0 3 0 1 
+0 6 2 0 11 0 1 
+1 11 0 0 7 0 1 
+1 8 0 0 7 0 1 
+0 3 0 0 8 0 1 
+0 21 1 0 30 0 1 
+0 20 0 0 21 1 0 
+0 6 1 0 24 0 1 
+0 5 0 0 6 1 0 
+0 24 2 0 22 0 1 
+0 30 2 0 22 0 1 
+0 30 1 0 45 0 1 
+0 24 1 0 45 0 1 
+0 34 0 0 29 0 1 
+0 15 0 0 35 0 1 
+0 3 1 0 16 1 1 
+0 28 1 0 34 0 1 
+0 36 1 0 15 0 1 
+0 2 0 0 28 0 1 
+0 2 1 0 36 0 1 
+1 28 2 0 37 0 1 
+1 36 2 0 37 0 1 
+3 40 0 0 19 1 1 
+3 38 0 0 40 0 0 
+3 41 0 0 31 1 1 
+3 39 0 0 41 0 0 
+1 43 1 0 33 0 1 
+1 42 1 0 32 0 1 
+1 32 0 0 19 0 1 
+1 33 0 0 31 0 1 
+1 32 1 0 40 0 1 
+1 33 1 0 41 0 1 
+1 43 0 0 39 0 1 
+1 42 0 0 38 0 1 
+1 10 1 0 43 0 1 
+1 12 1 0 10 1 0 
+1 13 1 0 12 1 0 
+1 16 1 0 13 1 0 
+1 18 1 0 42 0 1 
+1 17 1 0 18 1 0 
+1 4 1 0 17 1 0 
+1 9 1 0 4 1 0 
+1 25 1 0 9 1 0 
+0 36 0 0 1 1 1 
+0 22 0 0 1 1 1 
+0 25 0 0 9 1 1 
+0 26 1 0 25 1 1 
+0 23 1 0 20 0 1 
+0 8 1 0 5 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 127 0 0 
+3 19 3 127 127 0 
+4 78 2 1 0 
+5 57 2 0 1 
+6 19 3 0 124 127 
+7 43 2 110 1 
+8 44 1 1 
+9 78 2 1 0 
+10 78 2 1 0 
+11 44 1 1 
+12 78 2 1 0 
+13 78 2 1 0 
+14 43 2 110 1 
+15 86 1 69 
+16 78 2 1 0 
+17 78 2 1 0 
+18 78 2 1 0 
+19 26 6 73 2 0 0 0 0 
+20 57 2 0 1 
+21 19 3 0 124 127 
+22 81 1 0 
+23 44 1 1 
+24 19 3 0 100 127 
+25 78 2 1 0 
+26 19 3 127 127 0 
+27 44 1 1 
+28 18 2 127 64 
+29 57 2 0 1 
+30 19 3 0 127 100 
+31 26 6 77 2 0 0 0 0 
+32 66 5 0 127 0 90 0 
+33 66 5 0 127 0 91 0 
+34 86 1 69 
+35 57 2 0 1 
+36 18 2 127 64 
+37 43 2 68 0 
+38 110 1 89 
+39 110 1 85 
+40 28 1 49 
+41 28 1 48 
+42 66 5 0 71 0 127 0 
+43 66 5 0 72 0 127 0 
+45 81 1 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+121 127 69 93 
+1 4 0 2 9 1 4 1 1 118 1 7 0 0 15 1 9 0 2 9 1 9 1 1 118 1 10 0 2 8 1 10 1 1 118 1 12 0 2 8 1 12 1 1 118 1 13 0 2 8 1 13 1 1 118 1 14 0 0 15 1 15 0 3 58 1 16 0 2 8 1 16 1 1 118 1 17 0 2 9 1 17 1 1 118 1 18 0 2 9 1 18 1 1 118 1 25 0 2 9 1 25 1 1 77 1 34 0 3 58 
+[/MorphMapDump]
+[KnobMapDump]
+1 37 0 0 
+2 1 0 3 
+2 1 2 9 
+2 1 3 6 
+[/KnobMapDump]
+[CustomDump]
+1 
+38 1 0 
+39 1 0 
+40 1 0 
+41 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 ST In
+2 ST Out
+3 +
+4 Z-m
+5 Inv
+6 +
+7 g
+8 (g)
+9 Z-m
+10 Z-m
+11 (g)
+12 Z-m
+13 Z-m
+14 g
+15 R
+16 Z-m
+17 Z-m
+18 Z-m
+19 LFO fast L
+20 Inv
+21 +
+22 R
+23 (g)
+24 R
+25 Z-m
+26 +
+27 (g)
+28 L
+29 L
+30 L
+31 LFO fast R
+32 L
+33 R
+34 L
+35 R
+36 R
+37 Dry-Wet
+38 Rand L
+39 Rand R
+40 LFO slow L
+41 LFO slow R
+42 L
+43 R
+45 L
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Stereo Reverb 2.0
+==============
+(c) by Kaspar Thommen  kaspar@gmx.ch
+.
+Just route any Stereo signal to the inputs and listen...
+.
+Knobs
+----------
+1: Dry - Wet
+4: Decay Time
+7: Hi-Frequency-Damping (more you turn up, more high     frequencies will pass)
+10: Modulation Depth: The higher the value, the higher the modulation of the reverb signal. This modulation is necessary to "smear" or "diffuse" the signal. Maybe you have to adjust this parameter depending on your input signal. For harmonic signals (melodies etc.) try small values, for percussive signals (drums etc.) try larger values.
+.
+Version History
+-----------------------
+2.0
+- Sound improvements (less repetitive patterns in the reverb signal)
+- new Parameter: Modulation Depth
+.
+1.0
+First version
+
+[/Notes]

@@ -1,0 +1,76 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 2 0 0 
+2 4 1 0 
+3 92 1 5 
+4 95 0 5 
+5 35 0 9 
+6 79 0 2 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 2 0 0 3 0 1 
+0 2 1 0 2 0 0 
+2 4 0 0 5 0 1 
+0 6 0 0 1 0 1 
+0 3 0 0 6 0 1 
+0 3 2 0 6 0 1 
+0 6 1 0 4 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 122 0 0 
+3 92 7 127 0 0 0 6 2 0 
+4 95 7 42 73 89 1 0 64 0 
+5 35 1 78 
+6 79 6 0 127 127 127 127 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 2 0 1 
+1 3 3 0 
+1 6 0 2 
+[/KnobMapDump]
+[CustomDump]
+1 
+3 1 0 
+4 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 AudioIn1
+2 2 outputs1
+3 time variant sys
+4 PercOsc1
+5 RndPulsGen1
+6 source
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+An example of distortion using
+a time-variant linear system, in
+this case a filter.
+
+(c) JJClark 2002
+
+[/Notes]

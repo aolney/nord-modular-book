@@ -1,0 +1,256 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 12 0 0 2 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 97 0 13 
+2 57 1 13 
+3 4 1 31 
+4 14 0 4 
+5 43 0 2 
+6 1 0 0 
+7 20 1 18 
+8 19 1 16 
+9 73 0 33 
+10 14 2 7 
+11 78 2 34 
+12 81 1 3 
+13 44 1 5 
+14 83 1 7 
+15 19 2 32 
+16 51 1 34 
+17 14 2 11 
+18 39 1 0 
+20 21 2 0 
+22 14 2 15 
+23 19 2 28 
+24 110 0 37 
+26 19 2 30 
+27 39 0 11 
+28 14 2 19 
+29 14 2 23 
+30 81 1 23 
+31 110 0 35 
+32 110 0 39 
+33 19 0 41 
+35 81 1 10 
+36 26 0 43 
+19 31 0 16 
+25 87 0 9 
+21 66 0 18 
+37 43 0 20 
+38 43 0 22 
+39 43 0 24 
+40 43 0 26 
+41 79 0 28 
+42 39 0 31 
+43 111 1 26 
+44 111 1 28 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+65 48 8 65 62 24 65 48 8 65 13 29 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 7 0 0 8 0 1 
+2 7 1 0 6 1 1 
+1 4 2 0 5 0 1 
+0 18 0 0 13 0 1 
+0 10 3 0 13 0 1 
+0 17 3 0 13 0 1 
+0 22 3 0 13 0 1 
+0 28 3 0 13 0 1 
+0 29 3 0 13 0 1 
+1 12 0 0 18 0 1 
+0 10 2 0 2 0 1 
+0 17 2 0 2 0 1 
+0 22 2 0 2 0 1 
+0 28 2 0 2 0 1 
+0 29 2 0 2 0 1 
+0 20 0 0 12 0 1 
+0 14 0 0 20 0 1 
+0 8 0 0 16 0 1 
+0 16 2 0 11 1 1 
+0 15 1 0 11 1 1 
+0 15 0 0 23 0 1 
+0 23 0 0 10 0 1 
+0 23 1 0 17 0 1 
+0 23 2 0 22 0 1 
+0 26 2 0 15 0 1 
+0 11 0 0 26 0 1 
+3 27 0 0 1 0 1 
+1 4 0 0 27 0 1 
+0 26 0 0 28 0 1 
+0 26 1 0 29 0 1 
+0 30 0 0 7 1 1 
+0 3 0 0 30 0 1 
+0 3 1 0 3 0 0 
+1 33 0 0 31 0 1 
+1 33 1 0 24 0 1 
+1 33 2 0 32 0 1 
+0 35 0 0 14 0 1 
+0 2 0 0 35 0 1 
+1 7 3 0 6 2 1 
+2 13 0 0 9 0 1 
+0 29 1 0 19 0 1 
+0 28 1 0 19 0 1 
+0 13 1 0 4 0 1 
+0 25 0 0 4 0 1 
+0 9 0 0 25 0 1 
+0 9 1 0 9 0 0 
+1 1 0 0 36 0 1 
+0 21 0 0 33 0 1 
+1 1 1 0 21 0 1 
+0 42 0 0 41 0 1 
+1 21 1 0 42 0 1 
+1 41 0 0 37 0 1 
+1 43 0 0 38 0 1 
+1 41 1 0 38 0 1 
+1 41 2 0 39 0 1 
+1 41 3 0 40 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 97 5 52 64 1 23 127 
+2 57 2 0 0 
+3 4 3 109 0 0 
+4 14 5 64 0 0 42 0 
+5 43 2 44 0 
+7 20 6 0 63 127 70 62 0 
+8 19 3 127 88 127 
+9 73 1 0 
+10 14 5 64 64 0 53 0 
+11 78 2 0 0 
+12 81 1 127 
+13 44 1 0 
+14 83 1 4 
+15 19 3 127 126 127 
+16 51 10 0 1 0 119 0 0 1 1 0 0 
+17 14 5 73 64 0 41 0 
+18 39 1 64 
+19 31 1 0 
+20 21 9 0 0 0 56 30 7 0 0 0 
+21 66 5 0 29 1 127 0 
+22 14 5 79 67 0 0 0 
+23 19 3 127 123 113 
+24 110 1 87 
+25 87 1 44 
+26 19 3 99 74 127 
+27 39 1 3 
+28 14 5 77 64 0 36 0 
+29 14 5 111 49 0 70 0 
+30 81 1 41 
+31 110 1 90 
+32 110 1 89 
+33 19 3 106 75 71 
+35 81 1 61 
+36 26 6 103 1 0 0 0 0 
+37 43 2 64 0 
+38 43 2 76 0 
+39 43 2 88 0 
+40 43 2 124 0 
+41 79 6 0 127 127 127 127 0 
+42 39 1 125 
+43 111 2 10 1 
+44 111 2 10 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+127 127 0 0 
+1 7 1 1 27 1 18 0 0 25 1 23 1 0 0 
+[/MorphMapDump]
+[KnobMapDump]
+1 4 2 0 
+1 13 0 3 
+1 41 0 2 
+2 1 0 1 
+2 1 1 4 
+[/KnobMapDump]
+[CtrlMapDump]
+1 1 0 1 
+1 3 0 7 
+[/CtrlMapDump]
+[CustomDump]
+1 
+1 1 0 
+4 1 0 
+10 1 0 
+16 1 0 
+17 1 0 
+22 1 0 
+24 1 0 
+28 1 1 
+29 1 2 
+31 1 0 
+32 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Master
+2 InvLevShift1
+3 2 outputs1
+4 FOF Osc
+5 FOF NEGPhase
+6 Keyboard1
+7 Overall Envelope
+8 Mixer1
+9 ShutGain on Zero
+10 FOF 1
+11 Delay1
+12 BandWidth
+13 ReveseFOF
+14 EXp Shaper
+15 FOF decay
+16 Decay Filter
+17 FOF 2
+18 FOF Attac
+19 Noise1
+20 Compensate
+21 ControlMixer1
+22 FOF 3
+23 FOFMixer 1
+24 Jitter2
+25 FilterB1
+26 FOF Mixer 2
+27 PitchLag
+28 FOF 4
+29 FOF 5
+30 Amplifier1
+31 Jitter1
+32 Jitter3
+33 JitterMixer
+35 Amplifier2
+36 LFOC1
+37 Octiviate 1
+38 Octiviate 2
+39 Octiviate 3
+40 Octiviate 4
+41 octiviationSwitc
+42 Octiviation Smoo
+43 Octiviate Mul
+44 LevMult1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+!For an explanation of FOF see the Patch 'FOF Gen 1'
+!
+!
+!FOF Cello. This example shows how fof conserves the formant structure of the instrument despite the change of fundamental frequency.
+!
+Experiment with the FOF osc's wave forms to change the rosin type. 
+
+[/Notes]

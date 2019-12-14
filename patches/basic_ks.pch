@@ -1,0 +1,111 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 31 1 1 
+5 78 2 4 
+8 4 2 30 
+6 86 2 22 
+7 57 2 25 
+3 1 1 8 
+15 78 2 7 
+16 78 2 10 
+17 78 2 13 
+18 78 2 16 
+19 78 2 19 
+4 18 2 0 
+2 59 1 6 
+10 18 2 27 
+9 43 1 13 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 4 0 0 1 0 1 
+0 7 0 0 6 0 1 
+0 19 0 0 18 1 1 
+0 18 0 0 17 1 1 
+0 17 0 0 16 1 1 
+0 16 0 0 15 1 1 
+0 15 0 0 5 1 1 
+0 6 0 0 19 1 1 
+0 4 1 0 7 0 1 
+0 10 1 0 7 0 1 
+0 5 0 0 4 0 1 
+2 4 2 0 2 0 1 
+2 10 2 0 2 0 1 
+0 8 1 0 10 0 1 
+0 8 0 0 8 1 0 
+2 2 0 0 3 1 1 
+1 17 1 0 9 0 1 
+1 18 1 0 17 1 0 
+1 19 1 0 18 1 0 
+1 16 1 0 17 1 0 
+1 15 1 0 16 1 0 
+1 5 1 0 15 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 31 1 64 
+2 59 1 65 
+4 18 2 127 0 
+5 78 2 127 0 
+6 86 1 99 
+7 57 2 0 1 
+8 4 3 115 0 0 
+9 43 2 45 1 
+10 18 2 127 0 
+15 78 2 127 0 
+16 78 2 127 0 
+17 78 2 127 0 
+18 78 2 127 0 
+19 78 2 127 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+69 0 0 0 
+1 6 0 0 28 
+[/MorphMapDump]
+[KnobMapDump]
+1 9 0 1 
+2 1 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Noise1
+2 CompareLev1
+3 Keyboard1
+4 X-Fade1
+5 String (tune)
+6 FilterA1
+7 InvLevShift1
+8 2 outputs1
+9 Constant1
+10 X-Fade2
+15 String (tune)
+16 String (tune)
+17 String (tune)
+18 String (tune)
+19 String (tune)
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

@@ -1,0 +1,70 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+6 31 1 12 
+8 4 1 19 
+12 1 1 17 
+16 84 1 14 
+1 51 1 6 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 16 0 0 12 1 1 
+0 8 1 0 16 1 1 
+0 8 0 0 8 1 0 
+0 1 2 0 6 0 1 
+0 16 1 0 1 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 51 10 1 1 0 94 64 0 109 1 0 0 
+6 31 1 0 
+8 4 3 126 0 0 
+16 84 3 0 77 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 1 6 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 FilterE1
+6 Noise1
+8 2 outputs1
+12 Keyboard
+16 AD-Env1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+A pitched noise generator using
+a resonant filter.
+
+The filter resonance setting determines how
+strong the pitch is.
+
+(C) JJClark 2000
+
+[/Notes]

@@ -1,0 +1,159 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 638 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+2 4 2 27 
+5 78 1 13 
+6 78 2 13 
+8 24 1 29 
+9 57 1 27 
+10 35 0 10 
+3 58 0 1 
+1 86 1 16 
+4 86 2 16 
+13 50 1 18 
+14 50 2 18 
+15 19 1 22 
+16 19 2 22 
+17 18 1 24 
+18 18 2 24 
+7 78 1 10 
+11 78 2 10 
+12 19 1 5 
+19 19 2 5 
+20 50 1 1 
+21 78 1 7 
+22 78 2 7 
+23 50 2 1 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 5 1 0 9 0 1 
+0 7 1 0 5 1 0 
+0 21 1 0 7 1 0 
+0 17 2 0 9 0 1 
+1 9 0 0 8 1 1 
+1 6 1 0 8 1 1 
+1 11 1 0 6 1 0 
+1 22 1 0 11 1 0 
+1 18 2 0 8 1 1 
+2 3 0 0 10 0 1 
+0 15 2 0 13 1 1 
+0 15 1 0 1 0 1 
+0 16 1 0 4 0 1 
+0 16 2 0 14 1 1 
+0 17 1 0 15 0 1 
+0 2 1 0 18 0 1 
+0 2 0 0 17 0 1 
+0 18 1 0 16 0 1 
+0 1 0 0 12 0 1 
+0 13 0 0 1 0 0 
+0 17 0 0 13 0 0 
+0 4 0 0 19 0 1 
+0 14 0 0 4 0 0 
+0 18 0 0 14 0 0 
+0 19 1 0 6 1 1 
+0 12 1 0 5 1 1 
+0 12 2 0 7 1 1 
+0 20 0 0 3 0 1 
+0 5 0 0 20 0 1 
+0 6 0 0 5 0 0 
+0 19 2 0 11 1 1 
+0 19 0 0 22 1 1 
+0 12 0 0 21 1 1 
+0 23 0 0 20 2 1 
+0 11 0 0 23 0 1 
+0 7 0 0 11 0 0 
+0 22 0 0 23 2 1 
+0 21 0 0 22 0 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 86 1 88 
+2 4 3 123 0 0 
+3 58 16 51 41 70 62 108 81 102 4 12 64 0 44 87 96 103 0 
+4 86 1 88 
+5 78 2 25 24 
+6 78 2 25 24 
+7 78 2 25 18 
+8 24 8 40 1 0 0 0 0 64 0 
+9 57 2 2 1 
+10 35 1 104 
+11 78 2 25 18 
+12 19 3 127 127 127 
+13 50 3 107 77 1 
+14 50 3 107 77 1 
+15 19 3 127 127 127 
+16 19 3 127 127 127 
+17 18 2 73 64 
+18 18 2 73 64 
+19 19 3 127 127 127 
+20 50 3 80 0 1 
+21 78 2 25 12 
+22 78 2 25 12 
+23 50 3 92 0 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+13 1 0 
+14 1 0 
+20 1 0 
+23 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 FilterA1
+2 JJClark
+3 Noise
+4 FilterA2
+5 Left Delay
+6 Right Delay
+7 Left Delay
+8 Left-right LFO
+9 Inverter
+10 Make some
+11 Right Delay
+12 Mixer3
+13 FilterC1
+14 FilterC1
+15 Mixer1
+16 Mixer2
+17 X-Fade1
+18 X-Fade2
+19 Mixer4
+20 FilterC2
+21 Left Delay
+22 Right Delay
+23 FilterC2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Stereo localization patch. Uses frequency dependant
+intensity and time delay values to more accurately
+model the sound that arrives at the L and R ears.
+
+Based on the ABStereoPan&Delay patch of
+Anig Browl.
+
+(c)  JJClark 2002
+
+[/Notes]

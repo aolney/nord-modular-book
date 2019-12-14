@@ -1,0 +1,172 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 2 0 0 
+2 51 0 8 
+3 50 0 18 
+4 50 0 24 
+5 51 0 30 
+6 19 1 8 
+7 62 1 18 
+8 62 1 24 
+9 62 1 30 
+14 40 0 40 
+15 51 2 30 
+16 4 2 44 
+18 62 1 12 
+20 44 0 16 
+21 44 0 22 
+22 44 0 28 
+24 74 2 38 
+25 86 2 42 
+26 44 0 38 
+28 43 1 16 
+29 43 1 22 
+30 43 1 28 
+31 43 1 34 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 2 2 0 6 0 1 
+0 3 0 0 6 0 1 
+0 4 0 0 6 0 1 
+0 5 2 0 6 0 1 
+0 6 0 0 1 0 1 
+0 6 1 0 1 1 1 
+0 7 0 0 3 1 1 
+0 8 0 0 4 1 1 
+0 9 0 0 5 0 1 
+0 14 0 0 20 0 1 
+0 14 1 0 21 0 1 
+0 14 2 0 22 0 1 
+0 14 3 0 26 0 1 
+0 15 2 0 14 0 1 
+0 16 0 0 25 0 1 
+0 16 1 0 16 0 0 
+0 18 0 0 2 0 1 
+1 20 0 0 28 0 1 
+0 20 1 0 18 0 1 
+1 21 0 0 29 0 1 
+0 21 1 0 7 0 1 
+1 22 0 0 30 0 1 
+0 22 1 0 8 0 1 
+0 24 0 0 15 0 1 
+0 25 0 0 24 0 1 
+1 26 0 0 31 0 1 
+0 26 1 0 9 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 51 10 0 1 0 46 64 0 0 1 0 0 
+3 50 3 70 0 1 
+4 50 3 95 0 1 
+5 51 10 2 1 0 107 64 0 0 1 0 0 
+6 19 3 127 127 127 
+7 62 2 0 44 
+8 62 2 0 50 
+9 62 2 0 65 
+14 40 9 127 127 127 127 115 0 0 0 0 
+15 51 10 3 1 0 112 64 0 0 1 0 0 
+16 4 3 127 0 0 
+18 62 2 0 35 
+20 44 1 0 
+21 44 1 0 
+22 44 1 0 
+24 74 2 0 9 
+25 86 1 109 
+26 44 1 0 
+28 43 2 109 1 
+29 43 2 84 1 
+30 43 2 59 1 
+31 43 2 68 1 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 2 3 0 127 1 3 0 1 127 1 4 0 2 127 1 5 3 3 127 
+[/MorphMapDump]
+[KnobMapDump]
+1 28 0 6 
+1 29 0 9 
+1 30 0 12 
+1 31 0 15 
+2 1 0 0 
+2 1 1 1 
+2 1 2 2 
+2 1 3 5 
+[/KnobMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+4 1 0 
+5 1 0 
+15 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 AudioIn
+2 LowPassLeft
+3 BandPass1Left
+4 BandPass2Left
+5 HighPassLeft
+6 Mixer1
+7 Overdrive2
+8 Overdrive3
+9 Overdrive4
+14 CompMixL
+15 FilterE1
+16 Audio Out
+18 Overdrive1
+20 LblGain
+21 MlblGain
+22 MhblGain
+24 WaveWrapper5
+25 FilterA1
+26 HblGain
+28 LowGain
+29 MidLowGain
+30 MidHighGain
+31 HighGain
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+This is version 3.1 of a 4 band stereo compressor, based on low, band and highpass
+filters. This type of compressor is very usefull for processing a complete mix.
+
+Features:
+- The input expander/gate side chain is linked to the left channel to provide consistent
+stereo imaging.
+- The compressor side chains are all linked to the left channel to provide consistent
+stereo imaging.
+- The levels of the compressors are controlled by knob 7-10-13-16.
+- The tresholds of the compressors are controlled by knob 8-11-14-17.
+- The ratios of the compressors are controlled by knob 9-12-15-18.
+- The uncompressed signal can be mixed in with knob 4 (its an inverted signal!)
+- Morph 1 (knob 2) sets the frequency of the lowpass filters.
+- Morph 2 (knob 5) sets the frequency of the first pair of bandpass filters.
+- Morph 3 (knob 3) sets the frequency of the second pair of bandpass filters.
+- Morph 4 (knob 6) sets the frequency of the highpass filters.
+
+Programmed by Wan Kemper
+
+[/Notes]

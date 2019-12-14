@@ -1,0 +1,223 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 639 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 2 30 
+2 4 2 38 
+5 83 2 17 
+7 19 2 15 
+9 74 2 19 
+11 20 2 22 
+14 78 0 0 
+12 57 2 32 
+25 86 2 34 
+17 87 2 36 
+18 78 1 0 
+15 78 0 10 
+13 67 0 8 
+24 67 1 8 
+30 67 0 18 
+4 78 1 10 
+6 78 0 20 
+8 78 1 20 
+3 40 2 0 
+10 78 0 30 
+16 78 1 30 
+19 67 1 18 
+20 67 0 28 
+21 67 1 28 
+22 67 0 38 
+26 47 0 3 
+27 47 1 3 
+28 47 0 13 
+29 47 1 13 
+31 47 0 23 
+32 47 0 33 
+33 47 1 23 
+23 100 2 27 
+34 81 2 4 
+36 31 2 13 
+35 39 0 6 
+37 39 1 6 
+38 39 0 16 
+39 39 1 16 
+40 39 0 26 
+41 39 1 26 
+42 39 0 36 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 5 0 0 7 0 1 
+0 9 0 0 5 0 1 
+1 11 3 0 1 2 1 
+0 12 0 0 25 0 1 
+0 11 0 0 9 0 1 
+0 2 1 0 17 0 1 
+0 2 0 0 2 1 0 
+0 27 0 0 18 1 1 
+0 29 0 0 4 1 1 
+0 33 0 0 8 1 1 
+0 3 7 0 16 1 1 
+0 3 6 0 33 1 1 
+0 3 5 0 29 1 1 
+0 3 4 0 27 1 1 
+0 3 3 0 32 1 1 
+0 3 2 0 31 1 1 
+0 3 1 0 28 1 1 
+0 3 0 0 26 1 1 
+0 26 0 0 14 1 1 
+0 28 0 0 15 1 1 
+0 31 0 0 6 1 1 
+0 32 0 0 10 1 1 
+0 18 0 0 26 0 1 
+0 15 0 0 27 0 1 
+0 4 0 0 28 0 1 
+0 6 0 0 29 0 1 
+0 8 0 0 31 0 1 
+0 10 0 0 33 0 1 
+0 16 0 0 32 0 1 
+0 25 0 0 11 1 1 
+0 17 0 0 25 0 0 
+0 14 0 0 12 0 1 
+2 11 1 0 23 1 1 
+2 23 1 0 1 1 1 
+0 7 2 0 34 0 1 
+0 34 0 0 3 0 1 
+1 23 0 0 1 0 1 
+0 7 0 0 36 0 1 
+1 26 1 0 35 0 1 
+2 35 0 0 13 0 1 
+1 33 1 0 41 0 1 
+2 41 0 0 21 0 1 
+1 31 1 0 40 0 1 
+2 40 0 0 20 0 1 
+1 28 1 0 38 0 1 
+2 38 0 0 30 0 1 
+1 29 1 0 39 0 1 
+2 39 0 0 19 0 1 
+1 27 1 0 37 0 1 
+2 37 0 0 24 0 1 
+1 32 1 0 42 0 1 
+2 42 0 0 22 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 117 0 0 
+3 40 9 127 127 127 127 127 127 127 127 0 
+4 78 2 127 13 
+5 83 1 1 
+6 78 2 127 14 
+7 19 3 12 91 102 
+8 78 2 127 8 
+9 74 2 0 8 
+10 78 2 0 17 
+11 20 6 2 57 50 104 60 0 
+12 57 2 0 1 
+13 67 1 72 
+14 78 2 127 83 
+15 78 2 127 11 
+16 78 2 0 19 
+17 87 1 64 
+18 78 2 127 6 
+19 67 1 67 
+20 67 1 65 
+21 67 1 64 
+22 67 1 62 
+23 100 2 72 60 
+24 67 1 71 
+25 86 1 77 
+26 47 2 127 0 
+27 47 2 127 0 
+28 47 2 127 0 
+29 47 2 127 0 
+30 67 1 69 
+31 47 2 127 0 
+32 47 2 127 0 
+33 47 2 127 0 
+34 81 1 67 
+35 39 1 64 
+36 31 1 0 
+37 39 1 64 
+38 39 1 64 
+39 39 1 64 
+40 39 1 64 
+41 39 1 64 
+42 39 1 64 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard1
+2 Termination Out
+3 Mixer1
+4 4th Segment
+5 Nonlin Round
+6 5th Segment
+7 Nonlin In
+8 6thSegment
+9 Cubic Nonlin
+10 7th Segment
+11 Nonlin Gain
+12 Terminal Inv
+13 NoteDetect1
+14 Ist Segment
+15 3rd Segment
+16 8th Segment
+17 FilterB1
+18 2nd Segment
+19 NoteDetect4
+20 NoteDetect5
+21 NoteDetect6
+22 NoteDetect7
+23 KeybSplit1
+24 NoteDetect2
+25 FilterA1
+26 Pan1
+27 Pan1
+28 Pan1
+29 Pan1
+30 NoteDetect3
+31 Pan1
+32 Pan1
+33 Pan1
+34 Amplifier1
+35 Smooth1
+36 Noise1
+37 Smooth1
+38 Smooth1
+39 Smooth1
+40 Smooth1
+41 Smooth1
+42 Smooth1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+A physically modelled clarinet
+using a simple model of tone holes.
+This patch implements 8 notes,
+using note detect modules in place
+of the tone hole closures.
+(c) JJClark 2002
+
+[/Notes]

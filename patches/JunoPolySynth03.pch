@@ -1,0 +1,154 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 6 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 4 1 42 
+2 97 1 0 
+3 14 1 4 
+4 1 0 22 
+5 92 1 22 
+6 20 0 24 
+7 44 1 32 
+8 94 1 38 
+9 11 1 8 
+10 19 1 18 
+11 10 1 12 
+12 26 0 12 
+13 86 1 36 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 1 0 0 8 0 1 
+0 1 1 0 8 1 1 
+3 3 0 0 2 0 1 
+3 9 0 0 3 0 0 
+3 11 0 0 9 0 0 
+1 5 0 0 6 0 1 
+1 7 0 0 6 0 1 
+0 5 2 0 10 0 1 
+2 6 1 0 4 1 1 
+0 7 1 0 5 0 1 
+0 8 0 0 13 0 1 
+0 10 0 0 3 0 1 
+0 10 1 0 9 0 1 
+0 10 2 0 11 0 1 
+1 11 1 0 12 0 1 
+0 13 0 0 7 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 4 3 127 0 0 
+2 97 5 52 64 1 0 0 
+3 14 5 64 62 2 0 0 
+5 92 7 58 64 16 127 0 2 0 
+6 20 6 0 0 74 51 75 0 
+7 44 1 0 
+8 94 3 120 87 0 
+9 11 4 76 67 0 0 
+10 19 3 127 127 127 
+11 10 5 64 63 64 34 0 
+12 26 6 45 1 1 0 1 0 
+13 86 1 111 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 1 0 0 
+1 3 1 8 
+1 5 0 1 
+1 5 2 2 
+1 6 1 9 
+1 6 2 10 
+1 6 3 11 
+1 6 4 12 
+1 9 1 7 
+1 11 1 6 
+1 11 3 4 
+1 12 0 3 
+1 13 0 17 
+[/KnobMapDump]
+[CustomDump]
+1 
+2 1 0 
+3 1 0 
+5 1 0 
+9 1 0 
+11 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Output
+2 MasterOsc1
+3 Saw Osc 1
+4 Keyboard
+5 Filter
+6 ADSR-Env1
+7 GainControl1
+8 StereoChorus1
+9 Saw Osc 2
+10 Mixer1
+11 Pulse Osc
+12 PWM Speed
+13 Fuzzify
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+This patch emulates the PolySynth1 patch as found on the Roland Juno2.  
+Being a permanent, read-only patch and the first one in the bank, 
+it is always the first patch to greet you when you turn one on.  
+So Juno owners will recognize it instantly.
+.
+When I first stared creating this patch, I was not actually trying to 
+make the PolySynth1 sound, but something else.  Along the way, I 
+noticed, "hey, this sounds a lot like..."  So I tweaked it until I got it 
+right - or as close as I could get. I have an MKS-50 right here in the 
+studio (the rack version of the Juno), so I A/B'ed it with the Nord 
+while building the patch. The Juno filter definitely has a warmer 
+quality, something that cannot be duplicated by the 6db/oct 
+"fuzzify" filter that I threw onto this patch (though the filter helps).  
+.
+Also, the Juno has a special "PWM sawtooth" wave which the 
+Nord does not have, so the sound on the Juno is slightly more 
+animated as well.  But if you did not have a Juno unit to A/B side 
+by side, you'd never notice the difference.  It still wierds me out 
+when I hear it.
+Except THIS PolySynth1 has KNOBS!  And you can get 8 voices 
+out of it on a non-micro NM.  Try THAT witha Juno 2!
+.
+Kendall Jackman
+http://mp3.com/kjackman - Electronic Music
+http://mp3.com/searcher - Sci-Fi Radio Drama
+http://mp3.com/LizardProject - From the cutting room floor
+________________________________________________________________
+.
+OK, I don't know what happened to the last one.  After seeing the 
+flurry of "no wires" complaints on the message list, I loaded the 
+patch off my hard drive, and danged if it didn't really have all the 
+wires gone!
+.
+Try this one.  It *should* work.
+.
+Juno fans, let me know what you think...
+.
+Kendall Jackman
+http://mp3.com/kjackman - Electronic Music
+http://mp3.com/searcher - Sci-Fi Radio Drama
+http://mp3.com/LizardProject - From the cutting room floor
+[/Notes]

@@ -1,0 +1,86 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 2 1 5 
+2 4 1 11 
+3 19 1 9 
+4 19 1 7 
+5 78 2 5 
+6 78 2 10 
+7 86 2 8 
+8 86 2 13 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 2 1 0 3 0 1 
+0 2 0 0 4 0 1 
+0 7 0 0 5 1 1 
+0 3 1 0 7 0 1 
+0 8 0 0 6 1 1 
+0 4 2 0 8 0 1 
+0 4 1 0 1 0 1 
+0 5 0 0 4 1 0 
+0 3 2 0 1 1 1 
+0 6 0 0 3 2 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 121 0 0 
+3 19 3 127 0 127 
+4 19 3 127 127 0 
+5 78 2 0 19 
+6 78 2 0 19 
+7 86 1 53 
+8 86 1 53 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+127 0 0 0 
+1 3 1 0 127 1 4 2 0 127 
+[/MorphMapDump]
+[KnobMapDump]
+1 2 0 1 
+2 1 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 AudioIn1
+2 JJClark
+3 Mixer1
+4 Mixer2
+5 Delay1
+6 Delay2
+7 FilterA1
+8 FilterA2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Implementation of the
+Brungart crossfeed network for
+virtual loudspeaker synthesis on
+headphones.
+(c) JJClark 2002
+
+[/Notes]

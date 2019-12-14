@@ -1,0 +1,218 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 3 449 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 1 20 
+3 20 1 22 
+4 5 2 2 
+5 81 2 0 
+7 79 0 25 
+2 97 0 0 
+6 11 0 13 
+8 12 0 7 
+9 10 0 16 
+10 31 0 23 
+11 26 0 3 
+12 26 0 19 
+15 117 1 4 
+16 9 1 0 
+13 7 1 9 
+14 79 0 10 
+[/ModuleDump]
+[ModuleDump]
+0 
+1 127 0 0 
+3 4 2 7 
+6 51 1 2 
+2 26 0 4 
+4 19 1 0 
+5 117 1 8 
+7 26 0 8 
+8 2 0 2 
+9 21 2 0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 3 1 0 1 1 1 
+1 3 3 0 1 2 1 
+0 7 1 0 6 0 1 
+0 7 2 0 9 0 1 
+0 7 3 0 10 0 1 
+3 8 0 0 2 0 1 
+3 6 0 0 2 0 1 
+3 9 0 0 2 0 1 
+1 2 1 0 11 0 1 
+1 9 1 0 12 0 1 
+0 15 0 0 8 0 1 
+0 14 0 0 8 0 1 
+0 13 0 0 8 0 1 
+0 3 0 0 7 0 1 
+0 5 0 0 3 1 1 
+0 14 1 0 15 0 1 
+0 14 2 0 13 0 1 
+0 7 0 0 14 0 1 
+0 15 1 0 16 0 1 
+0 4 0 0 5 0 1 
+[/CableDump]
+[CableDump]
+0 
+0 5 0 0 6 0 1 
+1 6 3 0 2 0 1 
+0 4 0 0 1 0 1 
+0 6 2 0 4 0 1 
+1 5 2 0 7 0 1 
+0 4 1 0 8 0 1 
+0 3 1 0 9 1 1 
+0 3 0 0 9 0 1 
+0 9 1 0 5 0 1 
+0 9 0 0 9 1 0 
+[/CableDump]
+[ParameterDump]
+1 
+2 97 5 64 64 1 0 0 
+3 20 6 1 0 0 110 0 0 
+4 5 3 127 4 0 
+5 81 1 89 
+6 11 4 64 64 0 0 
+7 79 6 0 127 127 127 127 0 
+8 12 4 64 64 0 0 
+9 10 5 64 64 99 0 0 
+10 31 1 0 
+11 26 6 107 1 0 0 0 0 
+12 26 6 62 1 0 0 0 0 
+13 7 10 90 64 0 64 1 0 0 0 0 0 
+14 79 6 0 127 127 127 0 0 
+15 117 2 88 127 
+16 9 6 64 67 1 0 0 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+1 127 1 1 
+2 26 6 127 1 0 0 0 0 
+3 4 3 118 0 0 
+4 19 3 127 127 0 
+5 117 2 0 64 
+6 51 10 0 1 0 71 0 0 35 0 0 1 
+7 26 6 116 1 0 0 0 0 
+9 21 9 0 20 18 20 30 12 0 0 0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+0 5 0 2 47 0 6 8 1 39 1 2 4 0 44 1 9 3 3 56 
+[/MorphMapDump]
+[KnobMapDump]
+0 2 0 3 
+0 5 0 1 
+0 6 0 9 
+0 6 3 12 
+0 6 6 15 
+0 6 8 0 
+0 6 9 6 
+0 7 0 4 
+1 2 4 8 
+1 3 1 7 
+1 3 2 10 
+1 3 3 13 
+1 3 4 16 
+1 7 0 2 
+1 9 2 5 
+1 9 3 14 
+1 11 0 11 
+1 12 0 17 
+2 1 1 20 
+[/KnobMapDump]
+[CtrlMapDump]
+2 1 0 1 
+2 1 2 11 
+2 1 3 12 
+[/CtrlMapDump]
+[CustomDump]
+1 
+2 1 0 
+6 1 0 
+8 1 0 
+9 1 0 
+13 1 0 
+16 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+6 1 0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard
+2 Frequency
+3 Envelope
+4 To Filter
+5 Amplifier
+6 Sawtooth
+7 Waveform
+8 Triangle
+9 Square/Pulse
+10 Noise
+11 Freq Mod
+12 PW Mod
+13 Voice3/Sync
+14 Tri/Ring/Sync
+15 Ring Mod
+16 Voice3
+[/NameDump]
+[NameDump]
+0 
+1 Voices
+2 Cut-Off Mod
+3 Out
+4 Mix
+5 Amplitude
+6 Filter
+7 Amp Mod
+8 Audio Input
+9 Compressor
+[/NameDump]
+[Notes]
+Simple SID Model
+© 2000 Andreas Wickman
+Version 1.0
+### Knobs Lower Line: Source
+(3)	Waveform
+1. Triangle
+2. Sawtooth
+3. Square/Pulse
+4. Noise
+(6)	Pulsewidth
+(9)	Vibrato Amount (Morph1)
+(12)	Vibrato Rate
+(15)	Sweep Amount (Morph4)
+(18)	Sweep Rate
+### Knobs Middle Line: Amplitude
+(2)	Tremolo Amount (Morph3)
+(5)	Tremolo Rate
+(8)	Attack
+(11)	Decay
+(14)	Sustain
+(17)	Release
+### Knobs Upper Line: Filter
+(3)	Wah-Wah Amount (Morph2)
+(6)	Wah-Wah Rate
+(7)	Switch
+1. On
+2. Off
+(10)	Type
+1. Low Pass
+2. Band Pass
+3. High Pass
+4. Band Reject
+(13)	Cut-Off Frequency
+(16)	Resonance
+### Feedback to
+Andreas Wickman
+andreas@base8.se
+http://www.student.nada.kth.se/~su93-awi
+
+[/Notes]

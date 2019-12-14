@@ -1,0 +1,229 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 11 593 2 1 1 1 1 1 1 1 0 0 0 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 97 1 1 
+4 44 1 7 
+5 57 1 15 
+6 53 1 17 
+7 53 1 19 
+8 18 1 21 
+10 84 0 32 
+12 1 0 35 
+15 18 0 15 
+2 13 1 4 
+9 91 0 8 
+14 91 0 1 
+3 85 1 12 
+16 20 0 18 
+11 5 2 15 
+17 87 1 24 
+18 19 2 1 
+19 61 2 5 
+20 85 1 9 
+13 44 2 3 
+21 18 2 8 
+22 43 2 11 
+23 18 0 23 
+24 80 0 28 
+25 57 0 26 
+[/ModuleDump]
+[ModuleDump]
+0 
+1 127 0 1 
+3 4 0 7 
+5 86 0 5 
+6 57 0 3 
+7 19 1 1 
+8 94 1 8 
+9 4 1 11 
+2 94 1 3 
+10 19 1 6 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 8 2 0 4 0 1 
+0 8 0 0 6 0 1 
+0 8 1 0 7 0 1 
+0 4 1 0 2 0 1 
+0 4 0 0 4 1 0 
+0 20 2 0 4 1 0 
+0 3 2 0 20 2 0 
+3 2 0 0 1 0 1 
+3 20 0 0 2 0 0 
+3 3 0 0 20 0 0 
+0 5 0 0 3 0 1 
+0 7 0 0 5 0 0 
+0 6 0 0 5 0 1 
+0 16 0 0 15 0 1 
+1 15 0 0 14 0 1 
+1 15 1 0 9 0 1 
+2 9 1 0 14 1 1 
+1 10 2 0 12 2 1 
+0 17 0 0 8 0 1 
+0 18 0 0 17 0 1 
+0 18 1 0 18 0 0 
+0 19 0 0 18 0 1 
+0 21 0 0 19 0 0 
+0 21 1 0 19 0 1 
+0 13 1 0 19 0 1 
+0 9 0 0 20 0 1 
+0 14 0 0 9 0 0 
+0 11 0 0 21 0 1 
+0 18 2 0 13 0 1 
+1 21 2 0 22 0 1 
+1 13 0 0 21 2 0 
+0 15 2 0 23 0 1 
+1 23 1 0 10 0 1 
+1 25 0 0 24 0 1 
+1 1 0 0 24 0 1 
+1 23 0 0 25 0 1 
+0 6 1 0 16 1 1 
+0 7 1 0 6 1 0 
+2 10 0 0 12 1 1 
+2 24 1 0 10 0 0 
+2 16 1 0 12 1 1 
+[/CableDump]
+[CableDump]
+0 
+0 7 1 0 5 0 1 
+0 3 0 0 5 0 1 
+0 3 1 0 3 0 0 
+0 9 0 0 8 0 1 
+0 9 1 0 8 1 1 
+0 5 0 0 6 0 1 
+0 8 0 0 10 0 1 
+0 2 0 0 7 0 1 
+0 10 0 0 2 0 0 
+0 10 2 0 2 1 1 
+0 10 1 0 2 0 1 
+0 7 0 0 1 0 1 
+0 6 0 0 1 0 1 
+[/CableDump]
+[ParameterDump]
+1 
+1 97 5 64 64 1 19 0 
+2 13 4 64 64 0 0 
+3 85 5 76 64 0 0 0 
+4 44 1 0 
+5 57 2 0 1 
+8 18 2 127 0 
+9 91 19 127 0 127 127 0 0 127 127 127 0 0 0 127 127 0 0 15 0 1 
+10 84 3 0 62 0 
+11 5 3 115 4 0 
+13 44 1 0 
+14 91 19 93 29 0 127 1 18 71 26 0 23 49 127 109 14 93 104 15 0 1 
+15 18 2 127 0 
+16 20 6 0 4 77 127 54 0 
+17 87 1 0 
+18 19 3 127 127 127 
+19 61 3 0 64 1 
+20 85 5 88 64 0 0 0 
+21 18 2 127 0 
+22 43 2 0 1 
+23 18 2 0 127 
+24 80 5 103 96 1 0 0 
+25 57 2 2 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+1 127 1 0 
+2 94 3 127 127 0 
+3 4 3 115 0 0 
+5 86 1 119 
+6 57 2 0 1 
+7 19 3 127 127 127 
+8 94 3 91 127 0 
+9 4 3 127 0 0 
+10 19 3 106 105 106 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 9 1 2 127 1 9 3 1 -127 1 9 4 1 127 1 9 6 2 -127 1 9 8 1 -126 1 9 9 1 127 1 9 11 2 127 1 9 13 1 -127 1 9 14 1 127 1 14 0 0 -63 1 14 1 0 87 1 14 2 1 39 1 14 3 1 -83 1 14 4 0 86 1 14 5 0 36 1 14 6 2 56 1 14 7 2 -26 1 14 8 0 27 1 14 9 0 101 1 14 10 1 39 1 14 11 1 -108 1 14 12 0 -88 1 14 13 0 27 1 14 14 2 -92 1 14 15 2 23 
+[/MorphMapDump]
+[KnobMapDump]
+0 5 0 7 
+1 10 0 4 
+1 10 1 5 
+1 15 1 3 
+1 16 4 8 
+1 22 0 6 
+1 23 1 0 
+1 24 0 1 
+1 24 2 2 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+2 1 0 
+3 1 0 
+20 1 0 
+24 1 1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Pitch
+2 Mask
+3 Sample
+4 Mask
+5 Invert
+6 S&H1
+7 S&H2
+8 Interpolate
+9 Wave 2
+10 AD
+11 Rob Hordijk
+12 Keyboard
+13 
+14 Wave 1
+15 Wave balance
+16 ADSR
+17 DC Block
+18 Fuzz input
+19 
+20 Clock
+21 
+22 Brightness
+23 LFO<>AD
+24 LFO
+25 
+[/NameDump]
+[NameDump]
+0 
+1 Rob Hordijk
+2 Fat
+3 Lo
+5 Crossover Frq
+6 
+7 Hi
+8 Chorus
+9 Hi
+10 
+[/NameDump]
+[Notes]
+While the weekend was developing in a suitable slightly doped state (seems
+everybody here has a flu), suddenly a thought passed by that the crossfader
+module can be used to interpolate between a current and a previous output of
+a control sequencer to create a smooth wavetable oscillator. It proved that
+using the first quadrant of a sine^2 function to interpolate the transitions
+sounds the most smooth. Nice, as now only three DSP-cheap sinewave
+slaveoscs, a gain controller, two S&H's, an inverter, the crossfade mixer
+and a control sequencer to hold the table are needed to do the trick.
+.
+Using two (or more) control sequencers allows for fades between waveforms.
+Its quite a cheesy sound, so to make the sound a bit grittier a fuzz is
+added.
+
+The control sequencers give up around E5 or so, from there up the patch
+starts to freak out. Which can be quite nice when e.g. controlled from an
+external sequencer.
+
+[/Notes]

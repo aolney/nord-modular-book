@@ -1,0 +1,235 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 16 595 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+4 14 1 31 
+6 76 1 17 
+10 49 2 2 
+11 79 2 16 
+12 20 2 19 
+13 20 3 2 
+14 66 2 14 
+15 4 3 7 
+16 2 0 2 
+1 7 1 4 
+2 79 1 14 
+3 31 1 12 
+5 97 1 19 
+17 1 0 4 
+19 80 0 26 
+20 76 0 13 
+21 76 0 24 
+22 79 0 10 
+23 65 0 6 
+24 77 0 8 
+7 18 1 28 
+25 43 1 24 
+26 76 1 26 
+9 49 2 7 
+28 57 0 22 
+8 19 1 35 
+27 66 2 12 
+29 57 0 30 
+30 66 1 22 
+31 111 0 20 
+32 66 1 10 
+33 68 0 32 
+18 24 0 15 
+34 43 1 2 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 4 3 0 6 0 1 
+0 11 1 0 10 2 1 
+0 9 1 0 10 2 1 
+0 11 2 0 10 1 1 
+0 11 3 0 10 0 1 
+1 14 0 0 12 0 1 
+1 32 0 0 12 0 1 
+1 30 0 0 12 0 1 
+0 13 0 0 11 0 1 
+0 15 0 0 13 1 1 
+0 15 1 0 15 0 0 
+0 6 0 0 1 0 1 
+0 2 0 0 6 0 0 
+0 2 1 0 3 0 1 
+0 8 2 0 3 0 1 
+0 2 2 0 16 0 1 
+3 4 0 0 5 0 1 
+0 19 1 0 21 0 1 
+2 24 0 0 23 0 1 
+2 24 1 0 23 1 1 
+0 20 0 0 22 0 1 
+0 21 0 0 20 0 0 
+2 22 0 0 17 1 1 
+2 13 1 0 17 1 1 
+2 12 1 0 17 1 1 
+2 22 1 0 24 2 1 
+2 22 2 0 24 1 1 
+2 22 3 0 24 0 1 
+0 4 2 0 7 0 1 
+1 7 0 0 25 0 1 
+1 27 0 0 25 0 1 
+0 7 2 0 26 0 1 
+0 11 0 0 9 2 1 
+0 8 1 0 4 0 1 
+0 10 1 0 8 0 1 
+0 8 0 0 2 0 1 
+0 7 1 0 2 0 1 
+0 12 0 0 2 0 1 
+1 27 1 0 14 0 1 
+1 9 0 0 27 0 1 
+1 10 0 0 9 0 0 
+1 29 0 0 19 0 1 
+1 32 1 0 19 0 1 
+0 1 2 0 31 0 1 
+0 5 0 0 31 0 1 
+1 5 1 0 30 0 1 
+1 1 4 0 32 0 1 
+0 30 1 0 29 0 1 
+3 19 0 0 33 2 1 
+0 18 1 0 20 0 1 
+1 31 0 0 18 1 1 
+1 28 0 0 31 0 0 
+1 1 3 0 34 0 1 
+1 1 1 0 34 0 1 
+0 4 1 0 12 1 1 
+0 14 1 0 28 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 7 10 64 64 64 64 3 127 8 1 64 0 
+2 79 6 0 127 127 127 127 0 
+3 31 1 64 
+4 14 5 76 64 2 0 0 
+5 97 5 64 64 1 127 127 
+6 76 1 0 
+7 18 2 127 0 
+8 19 3 127 127 0 
+9 49 4 48 64 0 100 
+10 49 4 48 64 0 100 
+11 79 6 0 127 127 127 127 0 
+12 20 6 0 0 107 0 99 0 
+13 20 6 0 14 77 64 90 0 
+14 66 5 0 41 0 0 1 
+15 4 3 115 0 0 
+18 24 8 102 1 0 0 0 0 64 0 
+19 80 5 64 64 1 0 0 
+20 76 1 1 
+21 76 1 0 
+22 79 6 0 127 127 127 127 0 
+25 43 2 127 1 
+26 76 1 0 
+27 66 5 0 37 0 127 1 
+28 57 2 2 0 
+29 57 2 2 0 
+30 66 5 0 0 0 0 1 
+31 111 2 0 1 
+32 66 5 0 127 0 0 1 
+33 68 2 127 1 
+34 43 2 92 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+65 0 0 0 
+1 9 2 0 127 1 10 2 0 127 1 14 3 1 64 1 31 0 1 24 
+[/MorphMapDump]
+[CtrlMapDump]
+2 1 1 1 
+[/CtrlMapDump]
+[CustomDump]
+1 
+1 1 0 
+4 1 0 
+5 1 0 
+9 1 0 
+10 1 0 
+19 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 OSC A
+2 OSC A Source
+3 NOISE
+4 
+5 OSC B
+6 OSC B Sync
+7 
+8 MIXER
+9 LPF 24dB
+10 FILTER 12dB
+11 FLITER Type
+12 MOD ADSR
+13 ENV ADSR
+14 ADSR - LFO
+15 OUT
+16 AUDIO
+17 KEYBOARD
+18 LFOA1
+19 LFO B
+20 LFO A Sync
+21 LFO B Sync
+22 CLOCK DIV
+23 MIDI CLOCK
+24 
+25 Fixed 64 units
+26 OSC B Ring
+27 Cutoff - MOD
+28 
+29 
+30 ADSR - LFO
+31 PITCH MOD
+32 PW ADSR - LFO
+33 LFO BPM
+34 Detune
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+
+Hi guys,
+
+This morning I toyed with the new Korg MS2000 in my local musicstore. I had 
+to as I used a lot of MS20 and MS50 way back and still have a MonoPoly and 
+a PolySix. The MS2000's looks are really sexy, best looking synth (apart 
+from out beloved red box of course) I've seen for years. The sound felt a 
+bit thin but they didn't let me play real loud in the musicstore, so at 
+larger volume it might sound fatter. The sound patch is almost exactly like 
+one half of a MonoPoly, for you interested I patched it on the Modular for 
+you to play with. I feel the patch sounds a lot better on the Modular, but 
+here I can pull up the volume. The MS2000 has some features that really 
+lack on the Modular like a choise of lowest/highest/last note priority for 
+a monophonic patch, a nice MIDI keyboard based arpeggiator and ROM-based 
+sample wavelets for the oscillators. All the builtin effects can easily be 
+done on e.g. a Lexicon MPX100. IMHO the Modular (especially the rack) and 
+the MS2000 can complement each other nicely, and I feel like I'm wanting to 
+have one. The Modular of course can do so much more sonically when it's 
+about patching, but the MS2000 has some nice performance features and, my 
+god, it does look so sexy... The only thing that really turned me off is 
+that it has an ...yes, it's unbelievable for a $1500 machine... external 
+powersupply, oh no... It's like meeting your favourite moviestar in the 
+flesh, and he/she immediately fancies you, but it turns out he/she has just 
+eaten a pound of garlic...
+.
+Here's the MS2000 patch, no knobs assigned yet, that you may do yourself.
+.
+Have fun,
+Rob
+[/Notes]

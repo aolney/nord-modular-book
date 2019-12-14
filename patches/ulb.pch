@@ -1,0 +1,94 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 73 1 14 
+2 73 1 18 
+3 73 1 20 
+5 79 1 11 
+8 70 1 6 
+10 43 0 6 
+11 43 0 18 
+12 84 2 19 
+4 79 1 8 
+6 70 1 16 
+7 43 0 10 
+9 43 0 12 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 12 0 0 3 0 1 
+0 1 0 0 4 0 1 
+1 1 1 0 11 0 1 
+1 6 0 0 1 1 0 
+2 4 3 0 8 0 1 
+2 5 2 0 4 3 0 
+1 8 0 0 10 0 1 
+1 4 2 0 8 0 0 
+1 5 3 0 4 2 0 
+0 2 0 0 5 0 1 
+2 2 1 0 6 0 1 
+2 3 0 0 1 0 1 
+2 3 1 0 2 0 1 
+1 4 0 0 7 0 1 
+1 5 1 0 4 0 0 
+1 5 0 0 9 0 1 
+1 4 1 0 5 0 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 73 1 0 
+2 73 1 0 
+3 73 1 1 
+4 79 6 0 127 127 127 127 0 
+5 79 6 1 127 127 127 127 0 
+7 43 2 0 0 
+9 43 2 127 0 
+10 43 2 54 0 
+11 43 2 79 0 
+12 84 3 0 77 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[CustomDump]
+1 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 AND Gate
+2 AND Gate
+3 OR Gate
+4 S1 - 0 1 A Abar
+5 S2 - 1 0 Abar A
+6 LogicInv1
+7 0
+8 LogicInv2
+9 1
+10 Input A
+11 Input B
+12 AD-Env1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+(c) JJClark 2003
+
+Universal logic block - implements all
+boolean functions of 2 inputs.
+[/Notes]

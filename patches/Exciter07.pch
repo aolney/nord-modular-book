@@ -1,0 +1,152 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 3 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 50 1 14 
+2 4 0 26 
+3 78 1 32 
+4 57 1 22 
+6 19 0 22 
+7 19 0 24 
+8 104 0 14 
+9 104 0 18 
+11 87 1 4 
+12 57 0 10 
+13 57 1 10 
+15 2 0 0 
+16 19 0 12 
+17 19 1 12 
+18 50 1 18 
+19 62 0 6 
+20 62 1 6 
+21 87 0 4 
+22 19 1 26 
+23 57 1 24 
+25 57 1 36 
+26 78 1 28 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 2 0 0 6 0 1 
+0 2 1 0 7 0 1 
+0 3 0 0 26 0 1 
+0 4 0 0 18 2 1 
+0 6 0 0 8 0 1 
+0 6 1 0 16 0 1 
+0 6 2 0 25 0 1 
+0 7 0 0 9 0 1 
+0 7 1 0 17 0 1 
+0 7 2 0 3 0 1 
+0 25 0 0 3 0 1 
+0 11 0 0 15 1 1 
+0 9 0 0 11 0 0 
+0 18 0 0 9 0 0 
+0 16 0 0 19 0 1 
+0 16 1 0 12 0 1 
+0 17 0 0 20 0 1 
+0 17 1 0 13 0 1 
+0 19 0 0 21 0 1 
+0 12 0 0 19 0 0 
+0 20 0 0 11 0 1 
+0 13 0 0 20 0 0 
+0 21 0 0 15 0 1 
+0 8 0 0 21 0 0 
+0 1 0 0 8 0 0 
+0 22 0 0 4 0 1 
+0 22 1 0 23 0 1 
+0 23 0 0 1 2 1 
+0 26 0 0 22 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 50 3 41 0 1 
+2 4 3 127 0 0 
+3 78 2 0 64 
+4 57 2 0 0 
+6 19 3 127 0 0 
+7 19 3 127 0 0 
+8 104 5 29 64 0 0 127 
+9 104 5 29 64 0 0 127 
+11 87 1 76 
+12 57 2 0 1 
+13 57 2 0 1 
+16 19 3 127 127 127 
+17 19 3 127 127 127 
+18 50 3 41 0 1 
+19 62 2 0 64 
+20 62 2 0 64 
+21 87 1 76 
+22 19 3 127 127 127 
+23 57 2 0 1 
+25 57 2 0 1 
+26 78 2 0 64 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+127 24 127 64 
+1 6 1 0 127 1 6 2 2 127 1 7 1 0 127 1 7 2 2 127 1 8 1 3 63 1 9 1 3 63 1 11 0 1 51 1 21 0 1 51 
+[/MorphMapDump]
+[KnobMapDump]
+2 1 0 0 
+2 1 1 1 
+2 1 2 3 
+2 1 3 2 
+[/KnobMapDump]
+[CustomDump]
+1 
+1 1 0 
+18 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 FilterC1
+2 2 outputs1
+3 Delay1
+4 InvLevShift5
+6 Mixer3
+7 Mixer4
+8 EqShelving1
+9 EqShelving2
+11 FilterB2
+12 InvLevShift3
+13 InvLevShift4
+15 (C) Rob Hordijk
+16 Mixer2
+17 Mixer5
+18 FilterC2
+19 Overdrive1
+20 Overdrive2
+21 FilterB1
+22 Mixer1
+23 InvLevShift1
+25 InvLevShift2
+26 Delay9
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Patch for Paul's Behringer Enhancer, copy from the internals.
+
+Knob 1 - Harmonic level
+Knob 2 - Harmonic high cutoff
+Knob 4 - Big bottom
+Button - Stereo enhancer
+
+[/Notes]

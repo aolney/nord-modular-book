@@ -1,0 +1,382 @@
+[Header]
+Info=Clavia Nord Modular patch file
+Version=Nord Modular patch 2.10
+Name=Quadrafuzz v0.5
+KbRangeMin=0
+KbRangeMax=127
+VelRangeMin=0
+VelRangeMax=127
+BendRange=1
+PMMode=0
+PMTime=0
+Voices=1
+Cable0=1
+Cable1=1
+Cable2=1
+Cable3=1
+Morph0=1
+Morph1=1
+Morph2=1
+Morph3=1
+Sustain=1
+OctShift=2
+Retrig=1
+
+[Voices]
+0=4210752
+
+[Module 1]
+Type=2
+Name=AudioIn
+Col=0
+Row=0
+
+[Module 2]
+Type=51
+Name=LowPassLeft
+Col=0
+Row=4
+P0=1
+P1=1
+P2=0
+P3=46
+P4=64
+P5=0
+P6=0
+P7=1
+P8=0
+Im2=6
+Ih2=64
+Ic2=0
+
+[Module 3]
+Type=50
+Name=BandPass1Left
+Col=0
+Row=9
+P0=70
+P1=0
+P2=1
+Im0=6
+Ih0=64
+Ic0=0
+
+[Module 4]
+Type=50
+Name=BandPass2Left
+Col=0
+Row=12
+P0=95
+P1=0
+P2=1
+Im0=6
+Ih0=64
+Ic0=0
+
+[Module 5]
+Type=51
+Name=HighPassLeft
+Col=0
+Row=15
+P0=3
+P1=1
+P2=0
+P3=107
+P4=64
+P5=0
+P6=0
+P7=1
+P8=0
+Im2=6
+Ih2=64
+Ic2=0
+
+[Module 6]
+Type=19
+Name=Mixer1
+Col=1
+Row=4
+P0=127
+P1=127
+P2=127
+Im0=1
+Ih0=64
+Ic0=0
+Im1=1
+Ih1=65
+Ic1=0
+
+[Module 7]
+Type=62
+Name=Overdrive2
+Col=1
+Row=9
+P0=0
+P1=44
+Im0=3
+Ih0=65
+Ic0=0
+
+[Module 8]
+Type=62
+Name=Overdrive3
+Col=1
+Row=12
+P0=0
+P1=50
+Im0=4
+Ih0=65
+Ic0=0
+
+[Module 9]
+Type=62
+Name=Overdrive4
+Col=1
+Row=15
+P0=0
+P1=65
+Im0=5
+Ih0=64
+Ic0=0
+
+[Module 14]
+Type=40
+Name=CompMixL
+Col=0
+Row=20
+P0=127
+P1=127
+P2=127
+P3=127
+P4=115
+P5=0
+P6=0
+P7=0
+P8=0
+Im0=20
+Ih0=64
+Ic0=0
+Im1=21
+Ih1=64
+Ic1=0
+Im2=22
+Ih2=64
+Ic2=0
+Im3=26
+Ih3=64
+Ic3=0
+
+[Module 15]
+Type=51
+Name=FilterE1
+Col=2
+Row=15
+P0=4
+P1=1
+P2=0
+P3=112
+P4=64
+P5=0
+P6=0
+P7=1
+P8=0
+Im2=14
+Ih2=64
+Ic2=0
+
+[Module 16]
+Type=4
+Name=Audio Out
+Col=2
+Row=22
+P0=127
+P1=1
+Im0=25
+Ih0=64
+Ic0=0
+Im1=16
+Ih1=0
+Ic1=0
+
+[Module 17]
+Type=6
+Name=WanSynth
+Col=0
+Row=2
+P0=0
+P1=0
+P2=0
+P3=0
+
+[Module 18]
+Type=62
+Name=Overdrive1
+Col=1
+Row=6
+P0=0
+P1=35
+Im0=2
+Ih0=64
+Ic0=0
+
+[Module 20]
+Type=44
+Name=LblGain
+Col=0
+Row=8
+P0=0
+Im0=28
+Ih0=64
+Ic0=1
+Im1=18
+Ih1=64
+Ic1=0
+
+[Module 21]
+Type=44
+Name=MlblGain
+Col=0
+Row=11
+P0=0
+Im0=29
+Ih0=64
+Ic0=1
+Im1=7
+Ih1=64
+Ic1=0
+
+[Module 22]
+Type=44
+Name=MhblGain
+Col=0
+Row=14
+P0=0
+Im0=30
+Ih0=64
+Ic0=1
+Im1=8
+Ih1=64
+Ic1=0
+
+[Module 24]
+Type=74
+Name=WaveWrapper5
+Col=2
+Row=19
+P0=0
+P1=9
+Im0=15
+Ih0=64
+Ic0=0
+
+[Module 25]
+Type=86
+Name=FilterA1
+Col=2
+Row=21
+P0=109
+Im0=24
+Ih0=64
+Ic0=0
+
+[Module 26]
+Type=44
+Name=HblGain
+Col=0
+Row=19
+P0=0
+Im0=31
+Ih0=64
+Ic0=1
+Im1=9
+Ih1=64
+Ic1=0
+
+[Module 28]
+Type=43
+Name=LowGain
+Col=1
+Row=8
+P0=109
+P1=1
+
+[Module 29]
+Type=43
+Name=MidLowGain
+Col=1
+Row=11
+P0=84
+P1=1
+
+[Module 30]
+Type=43
+Name=MidHighGain
+Col=1
+Row=14
+P0=59
+P1=1
+
+[Module 31]
+Type=43
+Name=HighGain
+Col=1
+Row=17
+P0=68
+P1=1
+
+[Morphs]
+M0=2
+P0=3
+G0=0
+D0=127
+M1=3
+P1=0
+G1=1
+D1=127
+M2=4
+P2=0
+G2=2
+D2=127
+M3=5
+P3=3
+G3=3
+D3=127
+
+[Knobs]
+M0=17
+P0=0
+M1=17
+P1=1
+M2=17
+P2=2
+M5=17
+P5=3
+M6=28
+P6=0
+M9=29
+P9=0
+M12=30
+P12=0
+M15=31
+P15=0
+
+[Notes]
+Count=18
+L0=This is version 3.1 of a 4 band stereo compressor, based on low, band and highpass
+L1=filters. This type of compressor is very usefull for processing a complete mix.
+L2=
+L3=Features:
+L4=- The input expander/gate side chain is linked to the left channel to provide consistent
+L5=stereo imaging.
+L6=- The compressor side chains are all linked to the left channel to provide consistent
+L7=stereo imaging.
+L8=- The levels of the compressors are controlled by knob 7-10-13-16.
+L9=- The tresholds of the compressors are controlled by knob 8-11-14-17.
+L10=- The ratios of the compressors are controlled by knob 9-12-15-18.
+L11=- The uncompressed signal can be mixed in with knob 4 (its an inverted signal!)
+L12=- Morph 1 (knob 2) sets the frequency of the lowpass filters.
+L13=- Morph 2 (knob 5) sets the frequency of the first pair of bandpass filters.
+L14=- Morph 3 (knob 3) sets the frequency of the second pair of bandpass filters.
+L15=- Morph 4 (knob 6) sets the frequency of the highpass filters.
+L16=
+L17=Programmed by Wan Kemper

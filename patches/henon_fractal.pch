@@ -1,0 +1,232 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 53 0 6 
+2 53 0 15 
+3 44 0 8 
+4 19 0 19 
+5 44 0 10 
+6 57 0 12 
+7 43 0 21 
+8 68 0 0 
+9 8 2 10 
+10 8 2 27 
+11 19 1 31 
+12 20 2 5 
+13 4 1 36 
+14 43 0 4 
+15 19 0 17 
+16 98 1 6 
+17 98 1 14 
+18 92 2 16 
+19 92 2 33 
+20 20 2 0 
+21 94 1 33 
+22 20 2 22 
+23 20 2 39 
+24 37 1 0 
+25 89 1 11 
+26 73 1 2 
+27 58 0 24 
+28 58 0 33 
+29 19 1 29 
+30 76 1 4 
+31 26 1 24 
+32 66 1 18 
+33 57 1 21 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 1 0 0 8 1 1 
+2 2 0 0 1 0 0 
+2 27 0 0 2 0 0 
+2 28 0 0 27 0 0 
+2 20 1 0 8 1 1 
+2 12 1 0 20 1 0 
+2 24 0 0 8 1 1 
+0 1 1 0 4 0 1 
+0 2 1 0 3 0 1 
+0 25 1 0 2 1 0 
+1 3 0 0 32 0 1 
+0 3 1 0 1 0 1 
+0 5 0 0 3 1 0 
+0 5 1 0 3 1 0 
+0 16 0 0 1 0 1 
+1 4 0 0 7 0 1 
+0 4 1 0 15 0 1 
+0 4 2 0 2 0 1 
+0 17 0 0 2 0 1 
+0 25 0 0 2 0 1 
+0 6 0 0 5 0 1 
+0 27 1 0 6 0 0 
+0 8 0 0 30 0 1 
+1 9 1 0 16 0 1 
+1 27 2 0 9 1 0 
+1 10 1 0 17 0 1 
+1 28 2 0 10 1 0 
+1 10 3 0 22 0 1 
+1 19 0 0 22 0 1 
+0 11 0 0 12 1 1 
+0 11 1 0 23 1 1 
+0 11 2 0 29 0 1 
+0 12 0 0 18 0 1 
+0 13 0 0 21 0 1 
+0 13 1 0 21 1 1 
+0 15 1 0 6 0 1 
+0 15 0 0 15 1 0 
+0 15 2 0 15 1 0 
+1 18 0 0 20 0 1 
+0 18 2 0 9 0 1 
+0 19 2 0 10 0 1 
+0 21 0 0 11 0 1 
+2 22 1 0 26 0 1 
+2 23 1 0 22 1 0 
+2 30 0 0 26 0 1 
+0 23 0 0 19 0 1 
+2 26 0 0 24 0 1 
+2 26 1 0 25 0 1 
+0 29 0 0 27 0 1 
+0 29 1 0 28 0 1 
+1 32 0 0 14 0 1 
+0 32 1 0 33 0 1 
+1 33 0 0 31 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+3 44 1 0 
+4 19 3 127 104 126 
+5 44 1 0 
+6 57 2 0 1 
+7 43 2 127 0 
+8 68 2 32 1 
+9 8 9 64 64 0 2 127 0 0 0 0 
+10 8 9 64 70 0 3 127 0 0 17 0 
+11 19 3 127 127 127 
+12 20 6 0 24 77 1 61 0 
+13 4 3 115 0 0 
+14 43 2 36 1 
+15 19 3 127 127 127 
+16 98 14 24 0 0 1 0 1 1 0 1 0 1 0 1 1 
+17 98 14 72 0 0 1 0 1 1 0 1 0 1 0 1 1 
+18 92 7 44 64 38 96 0 2 0 
+19 92 7 66 64 53 115 0 0 0 
+20 20 6 0 29 46 93 48 0 
+21 94 3 66 101 0 
+22 20 6 0 27 93 68 43 0 
+23 20 6 0 64 96 73 94 0 
+24 37 1 55 
+26 73 1 0 
+27 58 16 68 3 69 63 84 127 55 66 63 60 2 63 58 126 122 0 
+28 58 16 96 60 56 63 127 72 32 32 40 66 2 46 37 89 46 0 
+29 19 3 127 127 127 
+30 76 1 0 
+31 26 6 4 0 0 0 0 0 
+32 66 5 0 127 0 68 0 
+33 57 2 2 0 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 8 0 2 
+1 13 0 6 
+1 14 0 0 
+1 24 0 3 
+1 26 0 5 
+1 30 0 4 
+1 32 3 1 
+[/KnobMapDump]
+[CustomDump]
+1 
+9 1 0 
+10 1 0 
+18 1 0 
+19 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 X Value
+2 Y Value
+3 GainControl1
+4 Mixer1
+5 GainControl2
+6 InvLevShift1
+7 Constant1
+8 Henon by JJClark
+9 OscB1
+10 OscB2
+11 Mixer2
+12 ADSR-Env1
+13 JJClark
+14 Parameter1
+15 Mixer3
+16 KeyQuant1
+17 KeyQuant2
+18 FilterF1
+19 FilterF2
+20 ADSR-Env2
+21 StereoChorus1
+22 ADSR-Env3
+23 ADSR-Env4
+24 Trigger Delay
+25 CompareAB1
+26 Trigger Mode
+27 DrumSynth1
+28 DrumSynth2
+29 Mixer4
+30 ClockSync
+31 LFOC1
+32 ControlMixer1
+33 InvLevShift2
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Henon Hanon Canon
+---------------------------------
+
+This implements the Henon strange attractor (fractal).
+It generates a quasi-periodic melody (in Eb major, but you can change
+this by changing the notes selected in the key quantizers)
+
+Knob 1 controls the dynamics, and determines whether
+the pattern is repetitive or chaotic.
+
+Knob 2 controls the level of a LFO that adjusts the attractor parameter
+(Knob 1) to provide a constantly (slowly changing) dynamic. Turn knob 2
+to zero to maintain a steady attractor type.
+
+Knob 3 sets the tempo.
+
+Knob 4 sets the delay in the triggering of the second voice.
+
+Knob 5 is used to turn on or off the syncing of the master clock
+with the second voice trigger.  Turning this on causes a change in
+the beat pattern.
+
+Knob 6 is used to select one of three different modes for
+generating the second voice trigger.
+
+You can try to play along with the pattern with your
+piano  instead of doing all those tedious Hanon piano exercises!
+
+--------------------------
+(c) James J. Clark 1999
+
+[/Notes]

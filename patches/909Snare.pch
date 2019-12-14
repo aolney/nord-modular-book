@@ -1,0 +1,100 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+12 1 1 2 
+1 26 1 6 
+2 26 1 13 
+4 84 1 10 
+5 84 1 17 
+6 66 1 20 
+7 5 2 26 
+3 31 2 6 
+8 50 2 8 
+9 50 2 15 
+10 84 2 12 
+11 84 2 19 
+13 19 2 22 
+14 81 2 24 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+55 78 34 55 78 34 
+[/CurrentNoteDump]
+[CableDump]
+1 
+1 4 1 0 1 0 1 
+1 5 1 0 2 0 1 
+0 6 0 0 4 1 1 
+0 6 1 0 5 1 1 
+2 4 0 0 12 1 1 
+2 5 0 0 4 0 0 
+2 10 0 0 12 1 1 
+2 11 0 0 10 0 0 
+0 8 0 0 3 0 1 
+0 9 0 0 8 0 1 
+0 10 1 0 8 0 1 
+0 11 1 0 9 2 1 
+1 13 0 0 6 0 1 
+0 13 1 0 10 1 1 
+0 13 2 0 11 1 1 
+0 7 0 0 14 0 1 
+0 14 0 0 13 0 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+1 26 6 124 2 1 0 0 0 
+2 26 6 114 2 1 0 0 0 
+3 31 1 0 
+4 84 3 0 50 0 
+5 84 3 0 54 0 
+6 66 5 0 127 0 127 0 
+7 5 3 115 0 0 
+8 50 3 113 0 1 
+9 50 3 68 0 1 
+10 84 3 0 74 0 
+11 84 3 0 70 0 
+13 19 3 127 113 112 
+14 81 1 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+2 1 0 15 
+[/KnobMapDump]
+[CustomDump]
+1 
+8 1 0 
+9 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 LFOC1
+2 LFOC1
+3 Noise1
+4 AD-Env1
+5 AD-Env2
+6 ControlMixer1
+7 jjclark
+8 FilterC1
+9 FilterC2
+10 AD-Env3
+11 AD-Env4
+12 Keyboard1
+13 Mixer1
+14 Amplifier1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]

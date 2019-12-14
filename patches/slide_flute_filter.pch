@@ -1,0 +1,133 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 2 0 0 1 600 2 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 1 1 10 
+2 4 2 16 
+5 83 2 27 
+7 19 2 25 
+9 74 1 26 
+12 115 1 6 
+13 31 1 12 
+14 19 1 16 
+15 44 1 14 
+6 78 1 23 
+11 86 2 23 
+4 20 1 18 
+10 50 2 19 
+18 19 2 14 
+3 57 1 4 
+8 49 2 4 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1 
+2 4 1 0 1 1 1 
+0 15 1 0 13 0 1 
+0 14 2 0 15 0 1 
+0 6 0 0 14 0 1 
+0 9 0 0 6 1 1 
+0 5 0 0 9 0 1 
+0 11 0 0 7 0 1 
+1 15 0 0 4 0 1 
+1 14 1 0 4 0 1 
+0 10 0 0 11 0 1 
+0 8 1 0 11 0 1 
+0 2 1 0 10 2 1 
+0 2 0 0 2 1 0 
+1 12 1 0 1 0 1 
+0 7 2 0 18 0 1 
+0 14 0 0 7 2 0 
+0 7 0 0 5 0 1 
+0 8 0 0 3 0 1 
+1 6 1 0 12 0 1 
+1 3 0 0 12 0 1 
+0 18 1 0 8 0 1 
+0 18 0 0 8 2 1 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 120 0 0 
+3 57 2 0 1 
+4 20 6 0 49 37 110 77 0 
+5 83 1 0 
+6 78 2 127 0 
+7 19 3 107 58 116 
+8 49 4 72 0 14 127 
+9 74 2 0 8 
+10 50 3 14 0 1 
+11 86 1 83 
+12 115 4 0 30 52 18 
+13 31 1 38 
+14 19 3 90 127 64 
+15 44 1 0 
+18 19 3 127 127 117 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0 
+1 6 0 0 -67 
+[/MorphMapDump]
+[KnobMapDump]
+1 2 0 0 
+1 6 0 2 
+[/KnobMapDump]
+[CtrlMapDump]
+2 1 0 1 
+[/CtrlMapDump]
+[CustomDump]
+1 
+8 1 0 
+10 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 Keyboard1
+2 jjclark
+3 InvLevShift1
+4 ADSR-Env1
+5 Shaper1
+6 jet delay
+7 Mixer
+8 FilterD1
+9 WaveWrap1
+10 DC blocker
+11 Brightness
+12 NoteVelScal1
+13 Noise1
+14 Mixer1
+15 GainControl1
+18 Mixer1
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+A simple physically modeled flute.
+Based on the slide-flute physical model
+by Perry Cook (Princeton University).
+The jet delay knob simulates changing the
+angle with which the player blows into the
+flute - thereby allowing overblowing techniques.
+In this patch the jet delay is also controlled
+by the mod wheel.
+This patch uses an all-pass filter instead
+of a delay line to provide the signal delay.
+(c) JJClark 2001
+
+[/Notes]

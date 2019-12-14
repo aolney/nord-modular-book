@@ -1,0 +1,130 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 1 4000 2 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 
+1 53 0 8 
+2 53 0 18 
+3 44 0 10 
+4 19 0 22 
+5 44 0 12 
+6 57 0 14 
+7 43 0 24 
+12 20 1 2 
+13 4 1 7 
+14 43 0 6 
+15 19 0 20 
+8 9 0 0 
+9 1 1 0 
+[/ModuleDump]
+[ModuleDump]
+0 
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 
+0 1 1 0 4 0 1 
+0 2 1 0 3 0 1 
+0 3 1 0 1 0 1 
+0 5 0 0 3 1 0 
+0 5 1 0 3 1 0 
+0 12 0 0 1 0 1 
+1 4 0 0 7 0 1 
+0 4 1 0 15 0 1 
+0 4 2 0 2 0 1 
+0 6 0 0 5 0 1 
+0 15 1 0 6 0 1 
+0 15 0 0 15 1 0 
+0 15 2 0 15 1 0 
+2 12 1 0 9 1 1 
+0 1 0 0 8 0 1 
+0 2 0 0 1 0 0 
+1 3 0 0 14 0 1 
+0 13 1 0 12 1 1 
+0 13 0 0 13 1 0 
+[/CableDump]
+[CableDump]
+0 
+[/CableDump]
+[ParameterDump]
+1 
+3 44 1 0 
+4 19 3 127 104 126 
+5 44 1 0 
+6 57 2 0 1 
+7 43 2 127 0 
+8 9 6 98 64 1 0 0 0 
+12 20 6 0 24 77 0 61 0 
+13 4 3 122 0 0 
+14 43 2 36 1 
+15 19 3 127 127 127 
+[/ParameterDump]
+[ParameterDump]
+0 
+[/ParameterDump]
+[KnobMapDump]
+1 13 0 17 
+1 14 0 0 
+[/KnobMapDump]
+[CustomDump]
+1 
+8 1 0 
+[/CustomDump]
+[CustomDump]
+0 
+[/CustomDump]
+[NameDump]
+1 
+1 X Value
+2 Y Value
+3 GainControl1
+4 Mixer1
+5 GainControl2
+6 InvLevShift1
+7 Constant1
+8 OscC1
+9 Keyboard1
+12 ADSR-Env1
+13 2 outputs1
+14 Parameter1
+15 Mixer3
+[/NameDump]
+[NameDump]
+0 
+[/NameDump]
+[Notes]
+Henon Hanon Canon
+---------------------------------
+
+This implements the Henon strange attractor (fractal).
+It generates a quasi-periodic melody (in Eb major, but you can change
+this by changing the notes selected in the key quantizers)
+
+Knob 1 controls the dynamics, and determines whether
+the pattern is repetitive or chaotic.
+
+Knob 2 controls the level of a LFO that adjusts the attractor parameter
+(Knob 1) to provide a constantly (slowly changing) dynamic. Turn knob 2
+to zero to maintain a steady attractor type.
+
+Knob 3 sets the tempo.
+
+Knob 4 sets the delay in the triggering of the second voice.
+
+Knob 5 is used to turn on or off the syncing of the master clock
+with the second voice trigger.  Turning this on causes a change in
+the beat pattern.
+
+Knob 6 is used to select one of three different modes for
+generating the second voice trigger.
+
+You can try to play along with the pattern with your
+piano  instead of doing all those tedious Hanon piano exercises!
+
+--------------------------
+(c) James J. Clark 1999
+
+[/Notes]

@@ -1,0 +1,115 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 1 0 0 4 4000 1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1 1 1 0 0 
+2 4 2 36 
+3 8 0 10 
+4 14 0 18 
+6 14 0 24 
+7 94 2 32 
+9 20 1 16 
+10 20 1 10 
+11 19 2 18 
+12 20 1 22 
+13 26 0 30 
+14 51 2 10 
+15 18 2 28 
+16 50 2 22 
+[/ModuleDump]
+[CurrentNoteDump]
+64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 
+[/CurrentNoteDump]
+[CableDump]
+1 0 2 0 0 7 0 1 
+0 2 1 0 7 1 1 
+3 4 0 0 3 1 1 
+3 6 0 0 4 0 0 
+1 4 1 0 13 0 1 
+1 3 3 0 4 1 0 
+1 15 2 0 13 0 1 
+0 7 0 0 15 0 1 
+0 9 0 0 4 0 1 
+0 10 0 0 3 0 1 
+2 10 1 0 1 1 1 
+2 9 1 0 10 1 0 
+2 12 1 0 9 1 0 
+1 10 3 0 1 2 1 
+1 9 3 0 10 3 0 
+1 12 3 0 9 3 0 
+0 11 1 0 9 1 1 
+0 11 2 0 12 1 1 
+0 12 0 0 6 0 1 
+0 14 2 0 10 1 1 
+0 15 0 0 14 0 1 
+0 15 1 0 16 0 1 
+0 16 0 0 11 0 1 
+[/CableDump]
+[ParameterDump]
+1 
+2 4 3 127 0 0 
+3 8 9 76 64 64 2 0 0 0 0 0 
+4 14 5 52 64 2 1 0 
+6 14 5 52 67 2 0 0 
+7 94 3 96 127 0 
+9 20 6 1 69 96 64 74 0 
+10 20 6 1 99 106 85 82 0 
+11 19 3 118 127 127 
+12 20 6 0 68 93 69 69 0 
+13 26 6 44 1 0 0 1 0 
+14 51 10 2 1 0 106 30 0 48 0 0 0 
+15 18 2 7 85 
+16 50 3 85 7 1 
+[/ParameterDump]
+[KeyboardAssignment]
+1 0 0 0 
+[/KeyboardAssignment]
+[KnobMapDump]
+1 2 0 0 
+1 7 0 12 
+1 7 1 15 
+1 9 1 8 
+1 9 2 11 
+1 9 3 14 
+1 9 4 17 
+1 10 1 7 
+1 10 2 10 
+1 10 3 13 
+1 10 4 16 
+1 14 3 1 
+1 14 6 4 
+1 15 0 6 
+1 15 1 9 
+1 16 0 2 
+1 16 1 5 
+[/KnobMapDump]
+[CustomDump]
+1 
+3 1 0 
+4 1 0 
+6 1 0 
+14 1 0 
+16 1 0 
+[/CustomDump]
+[NameDump]
+1 
+1 Bergmuller
+2 2 outputs1
+3 Osc1
+4 SubOsc1
+6 SubOsc2
+7 StereoChorus1
+9 ADSR-SubOsc1
+10 ADSR-Osc1
+11 SubOsc Mix
+12 ADSR-SubOsc2
+13 vibrato/pan
+14 Filt-Osc1
+15 X-Fade1
+16 Filt-SubOscs
+[/NameDump]
+[Notes]
+I've never played an Arp Solina, but it would probably sound a bit like this.
+
+[/Notes]
